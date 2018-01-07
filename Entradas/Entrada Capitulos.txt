@@ -1,0 +1,35 @@
+<div style="display: none;">
+<img src="Url-De-La-Iamgen"/>
+</div>
+
+<script>otrocb("Link-Anterior","Link-Siguiente");</script>
+
+<div style="text-align: center;">
+<ul class="tabs">
+<li class="active"><a href="#tab1">Opci&oacute;n 1</a></li>
+<li class="desactive"><a href="#tab2">Opci&oacute;n 2</a></li>
+<li class="desactive"><a href="#tab3">Opci&oacute;n 3</a></li>
+<li class="desactive"><a href="#tab4">Opci&oacute;n 4</a></li>
+<li class="desactive"><a href="#tab5">Opci&oacute;n 5</a></li>
+</ul><div class="tab_container">
+<div id="tab1" class="tab_content">
+<script>youtube("9juI1ecKxxQ");</script> 
+</div>
+<div id="tab2" class="tab_content">
+<script>rutube("e7cc4f58d7939b5d93519ba51a8e5d24");</script>
+</div>
+<div id="tab3" class="tab_content">
+<script>novamov("wtnbiyazzd7q6");</script>
+</div>
+<div id="tab4" class="tab_content">
+<script>videobam("luZUO");</script>
+</div>
+<div id="tab5" class="tab_content">
+<script>veevr("6W9B2WnBP");</script>
+</div>
+</div>
+</div>
+
+<script>descarga("URL-DE-LA-DESCARGA","99 MB");</script>
+
+<script>lista("URL-DE-LA-LISTA-COMPLETA");</script>

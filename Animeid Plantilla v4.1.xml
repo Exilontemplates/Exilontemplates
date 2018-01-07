@@ -1,0 +1,3520 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js' type='text/javascript'/>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js' type='text/javascript'/>
+<script src='https://sites.google.com/site/iclonesblogger/josetensei/jquery.jtruncate.pack.js' type='text/javascript'/>
+<script src='https://sites.google.com/site/iclonesblogger/josetensei/scripts.js' type='text/javascript'/>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/> | Animes Online Gratis | Descargar Animes</title> 
+
+    <b:skin><![CDATA[/*
+---------------- CLONESBLOGGER.COM -------------------------------
+Nombre: AnimeID! V.4
+Fecha:  22/01/2013
+Diseño: JoseTensei
+No retire los créditos
+---------------- CLONESBLOGGER.COM ------------------------------ */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; } body, .body-fauxcolumn-outer { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; } :focus { outline: 0; } ins { text-decoration: none; } del { text-decoration: line-through; } table { border-collapse: collapse; border-spacing: 0; }
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; } .clearfix { display: inline-block; } /* Hide from IE Mac \*/ .clearfix { display: block; } /* End hide from IE Mac */ .none { display: none; } /* End Clearfix */
+body, .body-fauxcolumn-outer {
+background: #edf1f9 url(https://lh5.googleusercontent.com/-q8NQyeGG76o/UP8J_WxAELI/AAAAAAAAC8o/Zveo2_XnRwE/s235/bb_top.jpg) repeat-x;
+font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+font-size: 12px;
+color: #444;
+}
+input,
+textarea {
+font: 12px/20px "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+background: #fff;
+color: #999;
+border: 1px solid #fff;
+}
+a{
+text-decoration:none;
+color: #0761B1;
+}
+a:hover{
+color: #0761B1;
+}
+a img {
+border-width: 0;
+}
+.clear {
+clear: both;
+display: block;
+font-size: 0;
+height: 0;
+line-height: 0;
+width:100%;
+}
+p,
+pre,
+ul,
+ol,
+dl,
+dd,
+blockquote,
+address,
+table,
+fieldset,
+form,
+{ margin-bottom: 20px; }
+.hentry,
+.navigation-links,
+.hfeed,
+.pinglist { margin-bottom: 10px; }
+.widget
+.entry-content ol ol,
+.entry-content ol ul,
+.entry-content ul ul,
+.comment-body ol ol,
+.comment-body ol ul,
+.comment-body ul ul,
+.widget ul ul { margin-bottom: 0; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-weight: normal;
+padding: 0;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+font-size: 24px;
+line-height: 28px;
+}
+h2 {
+margin: 0;
+color: #0090FF;
+font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+text-shadow: #B3DDFF 0px 1px 0px;
+font-size: 13px;
+font-weight: bolder;
+letter-spacing: -1px;
+}
+h3 {
+font-size: 16px;
+line-height: 20px;
+}
+h4 {
+font-size: 14px;
+line-height: 18px;
+margin-bottom: 15px;
+font-family: "Droid Serif", Georgia, Times, serif;
+font-style: italic;
+}
+h5 {
+font-size: 12px;
+line-height: 18px;
+}
+h6 {
+font-size: 10px;
+line-height: 16px;
+}
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6 {
+font-weight: bold;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-bottom: 15px;
+padding-top: 15px;
+font-style: normal;
+}
+.jump-link {
+font-family: "Droid Serif", Georgia, Times, serif;
+font-style: italic;
+}
+/* Header
+----------------------------------------------- */
+#header-wrapper {
+background-image: url(https://dl.dropbox.com/u/31184635/Blog%20Imagenes/Imagenes_Animeid/coolbg.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+height: 193px;
+}
+#header {
+margin: 0 auto;
+padding-left: 2%;
+text-align: left;
+}
+h1.title {
+font-family:"Reenie Beanie";
+font-size:40px;
+margin: 0 14px .1em;
+line-height: 1.2em;
+color:#6E15AF;
+}
+h1.title a, h1.title a:visited {
+color:#6E15AF;
+text-decoration: none;
+}
+#header .description {
+display: block;
+font-family: "Droid sans";
+letter-spacing: 3px;
+line-height: 1.4em;
+padding: 0 0 20px;
+text-align: center;
+}
+#hh {
+width: 993px;
+height: 42px;
+margin-left: auto;
+margin-right: auto;
+}
+#h {
+height: 42px;
+width: 957px;
+float: left;
+background-image: url(http://4.bp.blogspot.com/-PoUJlWW2Ero/UR40JLHAO5I/AAAAAAAAAFY/Vsir4tKnL-E/s1600/menu.png);
+background-position: bottom;
+}
+h10.title {
+font-size: 11px;
+font-family: Verdana;
+text-shadow: #AEDDFF 0px 1px 0px;
+padding-top: 11px;
+text-align: center;
+border: 0px;
+margin: 0px;
+font-weight: bold;
+color: #0761B1;
+overflow: hidden;
+width: 957px;
+display: block;
+height: 15px;
+}
+#eih {
+width: 18px;
+height: 42px;
+background-image: url(http://4.bp.blogspot.com/-PoUJlWW2Ero/UR40JLHAO5I/AAAAAAAAAFY/Vsir4tKnL-E/s1600/menu.png);
+background-repeat: no-repeat;
+background-position: top left;
+float: left;
+}
+#edh {
+width: 18px;
+height: 42px;
+float: left;
+background-image: url(http://4.bp.blogspot.com/-PoUJlWW2Ero/UR40JLHAO5I/AAAAAAAAAFY/Vsir4tKnL-E/s1600/menu.png);
+background-repeat: no-repeat;
+background-position: top right;
+}
+/*********************** NEW-MENU ********************************************/
+#mm {
+width: 997px;
+height: 78px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+}
+#eim{
+width:19px;
+height:78px;
+background-image:url(http://2.bp.blogspot.com/-1LQUdeFbmXM/UR40JfXDnkI/AAAAAAAAAFc/FJE_qNrEW8g/s1600/menubad.png);
+background-repeat:no-repeat;
+background-position:top left;
+float:left
+}
+#m{
+height:78px;
+width:959px;
+float:left;
+background-image:url(http://2.bp.blogspot.com/-1LQUdeFbmXM/UR40JfXDnkI/AAAAAAAAAFc/FJE_qNrEW8g/s1600/menubad.png);
+background-position:bottom
+}
+ul#uno,ul#dos,ul#i,ul.alfa{
+list-style:none;
+margin:0;
+padding:0;
+display:block
+}
+ul#uno > li,ul#dos > li,ul#i > li{
+list-style:none;
+margin:0;
+padding:0;
+padding-right:3px;
+display:block;
+float:left;
+height:78px;
+background-image:url(http://2.bp.blogspot.com/-wQ_AwqczHDQ/UR40HCSTRrI/AAAAAAAAAEw/hgJXRzt0t2I/s1600/d.gif);
+background-position:right;
+background-repeat:no-repeat
+}
+ul#dos{display:none}
+a.menu{
+height:44px;
+display:block;
+margin-top:7px;
+color:#000;
+display:block;
+float:left;
+font-family:Arial;font-size:9px;
+height:27px;
+padding-bottom:0px;
+padding-left:20px;
+padding-right:20px;
+padding-top:17px;
+text-align:center;
+text-decoration:none;
+text-shadow:#fff 0px 1px 0px;
+text-transform:uppercase;
+vertical-align:baseline;
+width:inherit
+}
+#id{
+width:29px;
+height:26px;
+float:left;
+margin-top:17px;
+background-image:url(http://1.bp.blogspot.com/-JUMfELfTNz8/UR40IXCe5YI/AAAAAAAAAFI/USvgMi4cRQk/s1600/id.jpg);
+background-position:top;
+background-repeat:no-repeat;
+margin-right:7px;
+cursor:pointer
+}
+#id:active{
+background-position:bottom
+}
+#edm{
+width:19px;
+height:78px;
+float:left;
+background-image:url(http://2.bp.blogspot.com/-1LQUdeFbmXM/UR40JfXDnkI/AAAAAAAAAFc/FJE_qNrEW8g/s1600/menubad.png);
+background-repeat:no-repeat;
+background-position:top right
+}
+/* Caja de Busqueda
+-------------------------------------- */
+#b{
+padding:0;
+margin:0;float:right;
+background-position:top center;
+height:31px;
+width:315px;
+margin-top:13px
+}
+#bb{
+background-image:url(http://4.bp.blogspot.com/-wCzK6I7CLRA/UR40F-0KsKI/AAAAAAAAAEk/VSiElDtjZ1A/s1600/but.jpg);
+background-color:transparent;
+background-position:left top;
+border:none;color:#333;
+float:left;
+font-size:12px;
+height:31px;
+margin-left:3px;
+margin-top:0px;
+outline:none;
+width:51px;
+cursor:pointer
+}
+#bb:hover{
+background-position:left center
+}
+#bb:active{
+background-position:left bottom
+}
+#q{
+background-image:url(http://2.bp.blogspot.com/-kkPjF6_oxGE/UR40IgUWpMI/AAAAAAAAAFQ/yE8TZHkBWEs/s1600/input.jpg);
+border:none 0px;color:#333;
+float:left;
+font-family:'Lucida Sans Unicode','Lucida Grande',sans-serif;font-size:12px;
+height:29px;
+margin-left:2px;
+margin-top:0px;
+outline:none;
+padding-left:4px;
+text-shadow:#AEDDFF 0px 1px 0px;
+width:194px
+}
+/*************************** Side-Derecha-listconfig********************************/
+/* imglista renglones y focazu */
+.swPage > li{background-image:url(https://lh6.googleusercontent.com/-W9Dzk3Ns91w/Tiaqx2As17I/AAAAAAAABVs/kHYH58DW_7A/la.jpg);background-position:top;background-repeat:no-repeat;display:block}
+.swPage > li:hover{background-position:bottom}
+/* listrenglonesfondo */
+.swPage > li > a{display:block;height:22px;padding-left:18px;padding-top:1px;text-decoration:none;color:#525252;text-shadow:#dfdfdf 0px 1px 0px;background-position:right;background-repeat:no-repeat}
+/* imagen numberfocazu */
+a.swShowPage{background-color:#eff8ff; background-image:url(https://lh3.googleusercontent.com/-zjPSpep6DlI/TiZd0aRLErI/AAAAAAAABVY/4UGHAz1VVK0/pag.gif);background-position:bottom;background-repeat:no-repeat; float:left;
+height:10px;margin:4px 3px;text-indent:-9999px;width:10px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:7px;outline:none}
+/* encender numberfocazu */
+a.swShowPage:hover,a.swShowPage.active{background-color:#46A5FB;background-image:url(https://lh3.googleusercontent.com/-zjPSpep6DlI/TiZd0aRLErI/AAAAAAAABVY/4UGHAz1VVK0/pag.gif);background-position:top;background-repeat:no-repeat}
+.swControls{position:relative; padding-top:20px;}
+/* imagmargenlef y focazu */
+.dm > ul{
+list-style:none;
+padding:0;
+margin:0;
+display:block}
+/* imag-focazu */
+.dm > ul > li{
+background-image:url(https://lh6.googleusercontent.com/-W9Dzk3Ns91w/Tiaqx2As17I/AAAAAAAABVs/kHYH58DW_7A/la.jpg);
+background-position:top;
+background-repeat:no-repeat;
+display:block}
+/* list-enciende focoazu */
+.dm > ul > li:hover{background-position:bottom}
+/* list-margentex */
+.dm > ul > li > a{display:block;height:22px;padding-left:18px;padding-top:1px;text-decoration:none;color:#525252;text-shadow:#dfdfdf 0px 1px 0px;background-position:right;background-repeat:no-repeat}#holder{overflow:hidden}
+/* list-imgdowcierredesidebar */
+/* Contenido
+----------------------------------------------- */
+.clear {
+clear: both;
+}
+#content-wrapper {
+margin: 0 auto;
+padding: 0 0 15px;
+}
+#main-wrapper {
+width: 552px;
+float:left;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+width: 243px;
+float:right;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper2 {
+width: 190px;
+float:left;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#mt {
+background-image: url(https://dl.dropbox.com/u/31184635/Blog%20Imagenes/Imagenes_Animeid/mtop.jpg);
+background-repeat: no-repeat;
+width: 1005px;
+height: 18px;
+margin-right: auto;
+margin-left: auto;
+margin-top: 45px;
+}
+#mmm {
+background-image: url(https://dl.dropbox.com/u/31184635/Blog%20Imagenes/Imagenes_Animeid/mma.jpg);
+background-repeat: repeat-y;
+width: 985px;
+margin-right: auto;
+margin-left: auto;
+margin-top: -5px;
+padding: 10px;
+height: auto!important;
+clear: both;
+min-height: 400px;
+}
+#CustomSearch1,#CustomSearch2,#CustomSearch3 {
+display: none;
+}
+/* Headings
+----------------------------------------------- */
+h2, h3 {
+margin: 0;
+}
+.post {
+float:left;
+margin-right:5px;
+border: 1px solid #CCCCCC;
+background-color: #fff;
+display: inline;
+padding: 0;
+width: 177px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+.post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6 {
+font-weight:bold;
+margin: 7px 0;
+}
+.post-title {
+background:#fff url(https://4.bp.blogspot.com/-nll_NlhRQ0Y/Wk6l_0FiAlI/AAAAAAAACpU/uSCvFssTqxwsQgJA9cSFXn07h3qbIo8TgCLcBGAs/s1600/ctl_bottom.jpg) no-repeat;
+border-top: 1px solid #FFFFFF;
+height: 20px;
+font-size: 10px;
+font-weight: normal;
+margin: 0;
+padding: 7px;
+text-transform: uppercase;
+text-align: center;
+-webkit-border-bottom-left-radius: 5px;
+-webkit-border-bottom-right-radius: 5px;
+}
+.post-title a, .post-title a:visited, .post-title strong {
+padding-top: 2px;
+text-decoration: none;
+color:#fff;
+display:block;
+}
+.separator{
+line-height: 0 !important;
+text-align: left !important;
+clear:none !important;
+}
+.separator a{
+margin:1em 1em 1em 0 !important;
+}
+.post-footer .span {
+margin-right: .3em;
+}
+.post img, table.tr-caption-container {
+-1webkit-box-shadow:#000 0px 1px 2px;
+-1moz-box-shadow:#000 0px 1px 2px;
+display:block;
+}
+.tr-caption-container img {
+border: none;
+padding: 0;
+}
+.post ul,.post ol{
+list-style: none;
+margin: 10px 0;
+}
+.post blockquote {
+margin: 1em 20px 1em 0;
+background: url("http://3.bp.blogspot.com/_sAefHxrmPGg/TW1dfOsSw4I/AAAAAAAABtI/U2gYZz88g-Q/s000/edit-quotation.png") no-repeat;
+padding-left: 20px;
+}
+.post blockquote p {
+margin: .75em 0;
+}
+/* Content Post Home
+----------------------------------------------- */
+.entry-content-1{
+height:250px;
+width:162px;
+font-size:0px;
+line-height:0px;
+padding:5px;
+overflow:hidden;
+}
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+margin: 1em 0;
+}
+#comments h4 strong {
+font-size: 110%;
+}
+#comments-block dt {
+margin: .5em 0;
+}
+#comments-block dd {
+margin: .25em 0 0;
+}
+#comments-block dd.comment-footer {
+margin: -.25em 0 2em;
+line-height: 1.4em;
+font-size: 78%;
+display: none;
+}
+#comments-block dd p {
+margin: 0 0 .75em;
+}
+#comments-block .avatar-image-container {
+margin-right:15px;
+float: left;
+height: 70px;
+position: relative;
+left:0;
+width: 70px;
+}
+#comments-block .avatar-image-container img {
+height: 70px;
+width: 70px;
+z-index: 100;
+}
+#comments-block.avatar-comment-indent {
+margin-left: 4px;
+position: relative;
+}
+ol #comments-block li {
+border-bottom: 1px solid #EEEEEE;
+list-style:none;
+margin: 20px 0;
+z-index: -100;
+min-height:90px;
+}
+#comments-block .comment_content {
+width: 500px;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+.blog-feeds{
+display:none;
+}
+#blog-pager {
+text-align: center;
+}
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar h2 {
+color: #E0F7FC;
+border-top: 1px solid #23a7fc;
+font-family: Arial;
+font-weight: bold;
+font-size: 11px;
+letter-spacing: 1px;
+padding: 5px;
+text-align: center;
+text-transform: uppercase;
+text-shadow: #01A2FF 0px 1px 0px;
+text-transform: uppercase;
+background: #03c4fb url(http://4.bp.blogspot.com/-unKgdqEnPJQ/UR40IEuVCyI/AAAAAAAAAFE/7mGFEvnWxrM/s1600/h2.gif) repeat-x;
+-webkit-border-top-left-radius:6px;
+-webkit-border-top-right-radius:6px;
+}
+.sidebar {
+line-height:1.3em;
+}
+.sidebar .widget{
+margin: 10px 10px 10px 10px;
+border: 1px solid #e0e5eb;
+-moz-border-radius:6px;
+-webkit-border-radius: 6px;
+-moz-box-shadow: 0 0 6px #e0e5eb;
+-webkit-box-shadow: 0 0 6px #e0e5eb;
+box-shadow: 0 0 6px #e0e5eb;
+}
+.sidebar .widget .widget-content img{
+-moz-border-radius: 2px 2px 2px 2px;
+-moz-box-shadow: 0 0 8px 0 #EEEEEE;
+padding: 4px;
+}
+/* Labels
+----------------------------------------------*/
+.list-label-widget-content li span{
+display:none;
+}
+/* Global widget settings
+-----------------------------------------*/
+.widget .widget-item-control a img {
+-moz-box-shadow: none !important;
+background: none !important;
+border: none !important;
+}
+.blog-list-container .blog-icon img{
+-moz-box-shadow: none !important;
+background: none !important;
+border: none !important;
+padding:0px !important;
+}
+.Text .widget-content {
+line-height: 22px;
+text-align: justify;
+padding: 5px;
+}
+/* Footer
+----------------------------------------------- */
+#footer-wrapper {
+background-image: url(http://3.bp.blogspot.com/-hXLL0armRfs/UR40HyKgtwI/AAAAAAAAAE8/c5jI1-BEiA8/s1600/f.jpg);
+background-repeat: repeat-x;
+width: 100%;
+height: 200px;
+z-index: -10;
+margin-top: -35px;
+background-color: #2E96F7;
+margin-bottom: 0px;
+}
+#f_t {
+background-image: url(https://dl.dropbox.com/u/31184635/Blog%20Imagenes/Imagenes_Animeid/f1.jpg);
+width: 993px;
+height: 79px;
+margin-left: auto;
+margin-right: auto;
+}
+.copyright {
+text-align: right;
+width: 975px;
+margin-left: auto;
+margin-right: auto;
+text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+font-size: 13px;
+color: #fff;
+letter-spacing: -1px;
+padding: 8px;
+background-color: #57aaf7;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+margin-top: 5px;
+}
+#comentariosface {
+border: 1px solid #bfd8f6;
+padding: 10px;
+float: right;
+paddin-right: 20;
+}
+/*MenuGenerosYporLetras*/
+.fleft {
+float: left;
+}
+.cc {
+width: 482px;
+height: 117px;
+background-image: url(http://2.bp.blogspot.com/-QojeKqYGyPQ/UR40GbpLKOI/AAAAAAAAAEo/D1xKrDJtPfg/s1600/c.jpg);
+display: block;
+margin-top: -3px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.ctit {
+height: 25px;
+text-align: center;
+color: #E0F7FC;
+font-weight: bold;
+font-family: Verdana,Geneva,sans-serif;
+padding-top: 13px;
+text-shadow: #01A2FF 0px 1px 0px;
+}
+.ccon {
+height: 62px;
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 4px;
+}
+ul.alfa {
+list-style: none;
+margin: 0;
+padding: 0;
+display: block;
+}
+ul.alfa  li {
+list-style: none;
+padding: 0;
+display: block;
+float: left;
+margin-left: 1px;
+margin-right: 2px;
+margin-top: 2px;
+margin-bottom: 1px;
+}
+a.let {
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+background-color: #EAFAFF;
+padding-left: 8px;
+padding-right: 7px;
+padding-top: 3px;
+padding-bottom: 0px;
+font-size: 11px;
+font-family: Verdana;
+text-shadow: #AEDDFF 0px 1px 0px;
+text-align: center;
+font-weight: bold;
+color: #0761B1;
+display: block;
+height: 17px;
+width: auto;
+text-decoration: none;
+border-right: 1px solid #CAF2FF;
+border-bottom: 1px solid #CAF2FF;
+}
+a.let:hover{
+background-color:#CAF2FF;
+-webkit-transition-duration:0.4s;
+-moz-transition-duration:0.4s;
+-webkit-transition-property:background-color;
+-moz-transition-property:background-color
+}
+/*Formateando Cosas*/
+#navbar1{display:none;}
+#Attribution1{display:none;
+}
+/* Ultimos Capitulos
+--------------------------------- */
+img.label_thumb{
+float:left;
+border:1px solid #8f8f8f; /* Borde de las miniaturas */
+margin:4px !important;
+height:71px; /* Alto de las miniaturas */
+width:49px; /* Ancho de las miniaturas */
+}
+.label_with_thumbs {
+float: left;
+width: 100%;
+min-height: 70px;
+margin: 0px 10px 2px 0px;
+padding: 0;
+}
+ul.label_with_thumbs li {
+padding: 8px;
+width: 248px;
+height: 89px;
+float: left;
+margin-right: 5px;
+overflow: hidden;
+background: url(https://lh3.googleusercontent.com/-0bbT9ttGG2M/UOhafR6hX9I/AAAAAAAAA_Y/es-bgVjkV4g/s264/n.jpg) no-repeat;
+}
+.label_with_thumbs a {
+text-shadow: #D2D2D2 0px 1px 0px;
+color: #535353;
+}
+.label_with_thumbs strong {padding-left:0px;}
+.url{margin-top: 20px;float: right;background-color: #96cdf7;padding: 2px 5px 2px 5px;color: white;border-radius: 2px;
+}
+/*CSS para mostrar Poster Anime*/
+img.cate_thumb{}
+.cate_with_thumbs {
+width: 100%;
+min-height: 70px;
+margin: 0px 10px 2px 0px;
+padding: 0;
+}
+ul.cate_with_thumbs li {
+padding: 1px;
+margin: 0 1px 1px;
+width: 176px;
+float: left;
+height: 292px;
+overflow: hidden;
+background-color: white;
+border: 1px solid #DDD;
+border-radius: 5px;
+text-align: center;
+font-size: 11px;
+}
+ul.cate_with_thumbs li img {
+width: 166px;
+height: 250px;
+margin: 2px 0px 0 2px;
+border: 1px solid #CCC;
+}
+.cate_with_thumbs a {color: white;}
+.cate_with_thumbs strong {padding-left:0px;}
+.catetil{
+margin-top: 1px;
+height: 34px;
+line-height: 34px;
+overflow: hidden;
+background: white url(https://4.bp.blogspot.com/-nll_NlhRQ0Y/Wk6l_0FiAlI/AAAAAAAACpU/uSCvFssTqxwsQgJA9cSFXn07h3qbIo8TgCLcBGAs/s1600/ctl_bottom.jpg) no-repeat;
+}
+/*Formateando Detalles*/
+#main .widget{margin-top:10px;}
+#main .widget-content{margin-top: 5px;}
+.status-msg-wrap{display:none}
+#blog-pager{display:none;}
+.commentface{
+box-shadow: 0 0 5px #CCC;
+padding: 5px;
+border: 1px solid white;
+border-radius: 5px;
+min-height: 40px;
+}
+/*Reportar*/
+.report {
+text-align:center;
+}
+/*********************** tipsynum ********************************/
+.tipsy{padding:5px;font-size:11px;opacity:1;filter:alpha(opacity=100);background-repeat:no-repeat;background-image:url(https://lh5.googleusercontent.com/-nxUTqgIDiLo/Tj8DFTqgaEI/AAAAAAAABnQ/6-I5G1GtcGU/tipsy%252520%2525281%252529.gif)}
+.tipsy-inner{background:url(https://lh3.googleusercontent.com/-cZCnlDbS7J8/Tj8DVZ7C64I/AAAAAAAABnU/fZ1x7paSN8Q/tipsy.png) repeat-x scroll 0 0 #000;border:1px solid #000;color:#fff;font-weight:700;max-width:200px;padding:4px 5px;text-align:center;text-shadow:0 1px 1px #000;font-family:Arial;-moz-border-radius:3px;-webkit-border-radius:3px}
+.tipsy-north{background-position:top center}
+.tipsy-east{background-position:right center}
+.tipsy-west{background-position:left center}
+#tb:hover,.tipsy-south{background-position:bottom center}
+/*Tablas CSS simples jQuery*/
+.container{
+width:660px;
+padding:0px;
+margin:10px auto
+}
+ul.tabs{
+margin:0;
+padding:0;
+float:left;
+list-style:none;
+height:32px;
+border-bottom:1px solid #E8E8E8;
+border-left:1px solid #E8E8E8;
+width:635px;
+margin-top:-7px
+}
+ul.subtabs{
+margin:0;
+margin-top:-5px;
+padding:0;
+float:right;
+list-style:none;
+height:17px;
+margin-bottom:2px;border-left:1px solid #e8e8e8;margin-left:1px;width:100%}
+ul.tabs li{float:left;margin:0;padding:0;height:31px;line-height:31px;border:1px solid #E8E8E8;border-left:none;margin-bottom:-1px;background:#e0e0e0;overflow:hidden;position:relative;background-image:url(http://www.vimagen.net/vs/img/pt.jpg);background-position:center}
+ul.subtabs li{float:left;margin:0;padding:0;height:17px;line-height:17px;border:1px solid #e8e8e8;border-left:none;margin-bottom:-1px;background:#f8f8f8;overflow:hidden;position:relative;background-image:url(http://www.vimagen.net/vs/img/spt.jpg);background-position:0 -23px}
+ul.tabs li a{text-decoration:none;color:#000;display:block;font-size:13px;padding:0 20px;border:1px solid #f8f8f8;outline:none}
+ul.subtabs li a{text-decoration:none;color:#000;display:block;font-size:11px;padding:0 30px;border:1px solid #f8f8f8;text-shadow:#CCC 0px 1px 0px;outline:none}
+ul.tabs li a:hover{background:#eaeaea;background-image:url(http://www.vimagen.net/vs/img/pt.jpg);background-position:top}
+ul.subtabs li a:hover{background:#f8f8f8;text-shadow:none;background-image:url(http://www.vimagen.net/vs/img/spt.jpg);background-position:0 23px}
+html ul.tabs li.active,html ul.tabs li.active a:hover{background:#f8f8f8;border-bottom:1px solid #f8f8f8;background-image:url(http://www.vimagen.net/vs/img/pt.jpg);background-position:bottom}
+html ul.subtabs li.active,html ul.subtabs li.active a:hover{background:#FFF;border-bottom:1px solid #f8f8f8;text-shadow:none;background-image:url(http://www.vimagen.net/vs/img/spt.jpg);background-position:top}
+.tab_container{
+border:1px solid #E8E8E8;
+border-top:none;
+clear:both;float:left;
+display:block;
+background:#f8f8f8;
+-moz-border-radius-bottomright:7px;
+-khtml-border-radius-bottomright:7px;
+-webkit-border-bottom-right-radius:7px;
+-moz-border-radius-bottomleft:7px;
+-khtml-border-radius-bottomleft:7px;
+-webkit-border-bottom-left-radius:7px
+}
+.tab_content{
+padding:10px;
+font-size:1.2em;
+width:615px
+}
+.tab_content h2{font-weight:normal;padding-bottom:10px;border-bottom:1px dashed #ddd;font-size:1.8em}
+.tab_content h3 a{color:#254588}
+.tab_content img{
+float:left;
+margin:0 20px 20px 0;
+border:1px solid #ddd;
+padding:5px
+}
+/*********************** DegaCome ********************************/
+.clb{background-image:url();background-position:100% 100%;width:652px;height:12px;margin-left:-24px}
+.clt{background-image:url();background-position:100% 0%;width:652px;height:11px;margin-left:-24px}
+.clm{background-image:url();width:632px;margin-left:24px;padding-left:0px;padding-right:10px;color:#2C2C2C;font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif;font-size:13px;letter-spacing:-1px;line-height:22px;text-shadow:#CCC 0px 1px 0px}
+.clms{color:#0761B1;text-shadow:#AEDDFF 0px 1px 0px}
+div.clm > h1{padding:0;margin:0;margin-top:-3px;color:#FFF;background-color:#4CB2E2;padding:5px;font-family:helvetica,arial,sans-serif;font-size:22px;letter-spacing:-1px;font-style:normal;font-weight:bold;width:622px;height:22px;display:block;text-shadow:rgba(0,0,0,0.35) 0px -1px 0px;background-image:url(https://lh5.googleusercontent.com/-F6ElHV2vHt8/TjserEoxngI/AAAAAAAABmQ/BwE7NK0LOFg/at.jpg);-webkit-border-radius:4px;-moz-border-radius:4px;border:1px solid #02A0FF;text-align:center}
+.clm > h2{margin:0;padding:0;border:0;color:#0090FF;font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif;text-shadow:#B3DDFF 0px 1px 0px;font-size:13px;letter-spacing:-1px;margin-left:3px}
+#floro{line-height:18px;text-shadow:0px -1px 0px rgba(0,0,0,0.15);padding:10px;width:580px;background-color:rgba(0,0,0,0.025);-webkit-border-radius:8px;-moz-border-radius:8px;margin:4px;text-align:justify}
+#floro > a{text-decoration:none;color:#0090FF}
+#floro > a:hover{text-decoration:underline}
+/*Lista AnimeID
+--------------------------------------*/
+.listanime{
+text-align: left;
+}
+.listanime a{
+background-color: #cbe9f8;
+background-image: none;
+border-bottom: 1px solid #77c8ed;
+border-radius: 4px 4px 4px 4px;
+border-right: 1px solid #77c8ed;
+color: #000;
+display: block;
+font-style: normal;
+height: 18px;
+overflow: hidden;
+padding: 2px 7px 7px;
+text-decoration: none;
+text-shadow: 0 1px 0 #a5c4d3;
+-moz-transition: all 0.5s;
+-webkit-transition: all 0.5s;
+-o-transition: all 0.5s;
+}
+.listanime a:hover{
+background-color: #24b6bd;
+border-bottom: 1px solid #209fa6;
+border-right: 1px solid #209fa6;
+color: #FFFFFF;
+text-shadow: 0 1px 0 #209FA6;
+display: block;
+font-style: normal;
+height: 18px;
+overflow: hidden;
+padding: 2px 7px 7px;
+text-decoration: none;
+-moz-transition: all 0.5s;
+-webkit-transition: all 0.5s;
+-o-transition: all 0.5s;
+}
+.listanime p{
+margin-bottom: 0;
+margin-top: 0;
+}
+/*Boton Descarga
+--------------------------------------*/
+#tensei-descarga {
+width: 314px;
+height: 34px;
+border: none;
+clear: both;
+padding-top: 10px;
+}
+#tensei-descarga > a {
+width: 243px;
+height: 34px;
+display: block;
+float: left;
+background-image: url(https://lh5.googleusercontent.com/-LzF0sCc1tMk/UM_U1vTvRRI/AAAAAAAAA3M/Nofp8OJSnbc/s314/dl.png);
+background-repeat: no-repeat;
+background-position: top left;
+}
+#tensei-descarga > a:hover{background-position:center left}
+#tensei-descarga > a:active{background-position:bottom left}
+#tensei-descarga > span {
+font-family: Trebuchet MS;
+width: 60px;
+height: 27px;
+display: block;
+float: left;
+text-align: center;
+background-image: url(https://lh5.googleusercontent.com/-LzF0sCc1tMk/UM_U1vTvRRI/AAAAAAAAA3M/Nofp8OJSnbc/s314/dl.png);
+background-repeat: no-repeat;
+background-position: top right;
+padding-left: 7px;
+padding-right: 3px;
+padding-top: 7px;
+letter-spacing: -1px;
+}
+/*-- Boton Lista De Capitulos --*/
+#tensei-lista{
+height:23px;
+display:block;
+font-size:0;
+background-image:url(http://imageshack.us/scaled/landing/197/backdx.png);
+background-repeat:no-repeat;
+background-position:top center;margin:8px;text-decoration:none;
+color:transparent
+}
+#tensei-lista:hover,.tipsy-south{
+background-position:bottom center
+}
+/*-- 300x250 Ads --*/
+.publi-tensei {
+background:url(https://1.bp.blogspot.com/-LZQZ9BOiWsg/Wk6qSduvR3I/AAAAAAAACpo/r9JC2f9SRMUgJML1Kg0lxA7bEhg_HHfZgCLcBGAs/s1600/Ads.JPG);
+background-repeat:no-repeat;
+width:320px;
+height:271px;
+float:left;
+padding-top:5px;
+padding-left:5px;
+margin-left:0px;
+}
+/*-- H2 --*/
+.highlight {
+margin-top: 10px;
+padding:9px 15px;
+overflow:hidden;
+background:#f1f8ff;
+-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+-moz-box-shadow:    0px 0px 5px rgba(0,0,0,0.2);
+box-shadow:         0px 0px 5px rgba(0,0,0,0.2);
+border-radius: 5px;
+font-size:11px;
+font-family: Verdana, Tahoma, Arial;
+}
+.highlight img {
+border: 1px solid #fff;
+border-radius: 2px;
+-webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.6);
+-moz-box-shadow:    0px 0px 3px rgba(0,0,0,0.6);
+box-shadow:         0px 0px 3px rgba(0,0,0,0.6);
+}
+
+---------Formulario Nuevo-----------------------
+/*! Fixed-Form v1.0.0 */
+.widget#ContactForm1{margin:0;padding:0;border:0 transparent;outline:transparent 0;background:0 0}[class*=" form-"]:before,[class^=form-]:before,[data-icon]:before{font-family:fixed-form!important;font-style:normal!important;font-weight:400!important;font-variant:normal!important;text-transform:none!important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@font-face{font-family:fixed-form;src:url(data:application/font-woff;charset=utf-8;base64,d09GRk9UVE8AAARsAAsAAAAABlwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAABCAAAAVwAAAGEGbz6dEZGVE0AAAJkAAAAGgAAABx41SUoR0RFRgAAAoAAAAAdAAAAIAAwAARPUy8yAAACoAAAAEcAAABgUB5etGNtYXAAAALoAAAAQAAAAUoB2QJVaGVhZAAAAygAAAApAAAANg21w1VoaGVhAAADVAAAABgAAAAkBC8CA2htdHgAAANsAAAACgAAAAoEFQAAbWF4cAAAA3gAAAAGAAAABgADUABuYW1lAAADgAAAANwAAAGhNkYitHBvc3QAAARcAAAAEAAAACAAAwABeJxNkEFLAlEQx+fpvlxssRQ3ijZvEh36BJ2ibh6TTh0UWkPSWqSkW4GYT2ff6oodA+sQ2D2PXYJuQgePQR+gD/AePMHWiIqBmR/zH/5/GAKaBoSQ+ULxwj7cLJxWykBCQGBbroVkKiyXNdcgaITR0FJRWNlLTBF/wYggyhvZoxbwBQtg0YJu3AoGOUuANrMxIA6rkHbyjl3ZdEr5E9su54ulv7R/uQCkQRiECQlV3mPSlb7JOHMb2EDWajb1iaMeaJ2xOtbcmnfdbeqCHohXcatQveA6xYYb3HPmsXaLtzhy9LHDvY7+9iGW9uls5X0X577ntV1fH8sMdbvMr3f0mBjIpJlTyWFEZDNmVWX7AeR+4LFqPvVRDSZZRDEYnqO4ElOkapwzUR2L1O7nswqkOxG06vAexVGgTTZMMUI1EltUTFXaRJFW1g6NyV4SzeBxl9jHOc+IfgGX2qTKeJxjYGBgZACCM7aLzoPoa94HdWA0AEoNBpgAAHicY2BkYGDgA2IJBhBgYmAEQhDJAuYxAAAEYAA1AAAAeJxjYGZiYJzAwMrAwejDmMbAwOAOpb8ySDK0MDAwMbByMsAAIwMSCEhzTWFwYEhiSGZ88P8Bgx4TkhrG10BCAQgZAdhMCngAeJxjYGBgZoBgGQZGBhBwAfIYwXwWBg0gzQakGRmYgKzk///BKpJA9P/5UPVAwMjGgODQDDAy0dwKCgAA3HIHLHicY2BkYGAA4u/+u3bH89t8ZeBmYgCBa94HdZBpJgawOAeEAgAjjAiUAAAAeJxjYGRgYGIAAj0wCWIzMqACJgAF0AA5AgAAAAIAAAAAFQAAAABQAAADAAB4nIWOMU4DMRBF3yabiARKRG0amsgr70pRpBwgFXVOkN1oC9aSkyIVx+AGnIKeY3AATsF3GKBBiqWR33x//xnghhcK8imYc2c8omRhPOaBZ+NSnjfjCdd8GE+ZF9lZlDMpt/zwiCvujcc8EoxLeV6NJ5r6bjyV/klHz4mWHV4cSTxB15/ane9iyvwrntuN2oHj+U7s9dPRUGmaY636L+/7ZSmlltergmilsDgcNzHtW9dUwa3d31w1S183vgn1istLbvWYOMiWt3NKzxuxbdOhj4Orq3A55At60j8feJxjYGZABowMaAAAAI4ABQ==) format("woff");font-weight:400;font-style:normal}[data-icon]:before{content:attr(data-icon)}.form-paper-plane:before{content:"\62"}.form-email:before{content:"\63"}.fixed-form__input,.fixed-form__input:active,.fixed-form__input:focus{outline:transparent 0}.fixed-form__control{padding:1.2em;font-size:14px;color:#fff;border-radius:3px;cursor:pointer}.fixed-form__control::after{cursor:default;z-index:9800;background:rgba(85,83,81,.75);visibility:hidden;content:"";opacity:0;width:100%;-webkit-transition:opacity .5s,visibility .5s;transition:opacity .5s,visibility .5s}.fixed-form__control::after,.fixed-form__outsite{position:fixed;top:0;left:0;height:100%}.fixed-form__control.is-active::after{visibility:visible;opacity:1}.fixed-form__button,.fixed-form__control,.fixed-form__header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.fixed-form__outsite{padding:1em;width:300px;z-index:9999;overflow-y:auto;font-size:14px;-webkit-transform:translateX(-100%);transform:translateX(-100%);-webkit-transition:-webkit-transform .5s cubic-bezier(.6,-.4,.2,.9);transition:-webkit-transform .5s cubic-bezier(.6,-.4,.2,.9);transition:transform .5s cubic-bezier(.6,-.4,.2,.9);transition:transform .5s cubic-bezier(.6,-.4,.2,.9),-webkit-transform .5s cubic-bezier(.6,-.4,.2,.9)}.fixed-form__body,.fixed-form__footer p,.fixed-form__header{padding:15px 18px}.fixed-form__outsite.is-active{-webkit-transform:translateX(0);transform:translateX(0)}.fixed-form__container{background:#fff;box-shadow:0 0 0 7px rgba(0,0,0,.03)}.fixed-form__header{border-bottom:1px solid rgba(0,0,0,.05);font-size:1.25em;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.fixed-form__header i::before{font-size:32px;display:block}.fixed-form__input{padding:1em;margin-bottom:1em;width:100%;border-radius:2px;border:1px solid rgba(0,0,0,.1);box-shadow:0 0 0 2px rgba(0,0,0,.03);max-width:100%;-webkit-transition:border .3s,box-shadown .3s;transition:border .3s,box-shadown .3s}.fixed-form__textarea{min-height:100px;resize:none}[id*=contact-form-submit]{border:0 transparent;color:#fff;font-size:1em;cursor:pointer;width:100%;text-align:center;padding:1em;font-weight:700;border-radius:3px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-transition:opacity .3s;transition:opacity .3s}.fixed-form__control i::before,[id*=contact-form-submit] i::before{margin-right:.5rem;font-size:1.2em}[id*=contact-form-submit]:hover{opacity:.8}.fixed-form__message{padding-bottom:24px}.contact-form-error-message,.contact-form-success-message,.fixed-form__footer img{display:none}.fixed-form__outsite::-webkit-scrollbar{width:3px}.fixed-form__outsite::-webkit-scrollbar-track{background-color:rgba(0,0,0,.1)}.fixed-form__outsite::-webkit-scrollbar-thumb{background-color:rgba(0,0,0,.3)}.fixed-form__footer p{border-top:1px solid rgba(0,0,0,.05)}@media (min-width:768px){.fixed-form__outsite{padding:2.8em;width:400px}.fixed-form__body,.fixed-form__footer p,.fixed-form__header{padding:20px 24px}}
+/*options*/
+.fixed-form__outsite {
+   color: #4d6761; /*text color*/
+   background: #e5e0dc; /*bg color*/
+   line-height: 1.4;
+}
+.fixed-form__control,
+[id*=contact-form-submit] {
+   background: #3a9691; /*buttons color*/
+}
+.fixed-form__input:active,
+.fixed-form__input:focus {
+   box-shadow: 0 0 0 3px rgba(0, 0, 0, .03), 0 0 1px #3a9691; /*focus color (shadown)*/
+   border-color: #3a9691; /*focus color (border)*/
+}
+]]></b:skin>
+
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js' type='text/javascript'/>
+
+<!--[if IE]>
+<style type="text/css">
+.timer { display: none !important; }
+div.caption { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1; }
+</style>
+<![endif]--> 
+
+<script type='text/javascript'> 
+$(window).load(function() {
+$(&#39;#featured&#39;).orbit({
+advanceSpeed: 5000,
+&#39;bullets&#39;: true,
+&#39;timer&#39; : true,
+&#39;animation&#39; : &#39;horizontal-slide&#39;
+});
+});
+</script> 
+
+<script type='text/javascript'> 
+//<![CDATA[
+(function(e){e.fn.orbit=function(a){a=e.extend({animation:"fade",animationSpeed:800,advanceSpeed:4E3,startClockOnMouseOut:true,startClockOnMouseOutAfter:3E3,directionalNav:true,captions:true,captionAnimationSpeed:800,timer:false,bullets:false},a);return this.each(function(){function m(c){function g(){f.eq(h).css({"z-index":1});s=false}var h=b,k=c;if(h==k)return false;if(!s){s=true;if(c=="next"){b++;if(b==n)b=0}else if(c=="prev"){b--;if(b<0)b=n-1}else{b=c;if(h<b)k="next";else if(h>b)k="prev"}a.bullets&&
+x();if(a.animation=="fade"){f.eq(h).css({"z-index":2});f.eq(b).css({opacity:0,"z-index":3}).animate({opacity:1},a.animationSpeed,g);a.captions&&o()}if(a.animation=="horizontal-slide"){f.eq(h).css({"z-index":2});k=="next"&&f.eq(b).css({left:t,"z-index":3}).animate({left:0},a.animationSpeed,g);k=="prev"&&f.eq(b).css({left:-t,"z-index":3}).animate({left:0},a.animationSpeed,g);a.captions&&o()}if(a.animation=="vertical-slide"){f.eq(h).css({"z-index":2});k=="prev"&&f.eq(b).css({top:u,"z-index":3}).animate({top:0},
+a.animationSpeed,g);k=="next"&&f.eq(b).css({top:-u,"z-index":3}).animate({top:0},a.animationSpeed,g);a.captions&&o()}}}var b=0,n=0,t,u,s,d=e(this).addClass("orbit"),f=d.find("img, a img");f.each(function(){var c=e(this),g=c.width();c=c.height();d.width(g);t=d.width();d.height(c);u=d.height();n++});f.eq(b).css({"z-index":3});if(a.timer){d.append('<div class="timer"><span class="mask"><span class="rotator"></span></span><span class="pause"></span></div>');var j=e("div.timer"),p;if(j.length!=0){var C=
+a.advanceSpeed/180,v=e("div.timer span.rotator"),y=e("div.timer span.mask"),z=e("div.timer span.pause"),l=0,A,w=function(){p=true;z.removeClass("active");A=setInterval(function(){var c="rotate("+l+"deg)";l+=2;v.css({"-webkit-transform":c,"-moz-transform":c,"-o-transform":c});if(l>180){v.addClass("move");y.addClass("move")}if(l>360){v.removeClass("move");y.removeClass("move");l=0;m("next")}},C)},q=function(){p=false;clearInterval(A);z.addClass("active")};w();j.click(function(){p?q():w()});if(a.startClockOnMouseOut){var B;
+d.mouseleave(function(){B=setTimeout(function(){p||w()},a.startClockOnMouseOutAfter)});d.mouseenter(function(){clearTimeout(B)})}}}if(a.captions){d.append('<div class="caption"><span class="orbit-caption"></span></div>');var r=d.children("div.caption").children("span").addClass("orbit-caption").show(),o=function(){var c=f.eq(b).attr("rel"),g=e("#"+c).html(),h=r.height()+20;r.attr("id","#"+c).html(g);g?r.parent().stop().animate({bottom:0},a.captionAnimationSpeed):r.parent().stop().animate({bottom:-h},
+a.captionAnimationSpeed)};o()}if(a.directionalNav){d.append('<div class="slider-nav"><span class="right">Right</span><span class="left">Left</span></div>');j=d.children("div.slider-nav").children("span.left");var D=d.children("div.slider-nav").children("span.right");j.click(function(){a.timer&&q();m("prev")});D.click(function(){a.timer&&q();m("next")})}if(a.bullets){d.append('<ul class="orbit-bullets"></ul>');var E=e("ul.orbit-bullets");for(i=0;i<n;i++){j=e("<li>"+i+"</li>");e("ul.orbit-bullets").append(j);
+j.data("index",i);j.click(function(){a.timer&&q();m(e(this).data("index"))})}var x=function(){E.children("li").removeClass("active").eq(b).addClass("active")};x()}})}})(jQuery);
+//]]>
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+function catethumbs(json){document.write('<ul class="cate_with_thumbs">');for(var i=0;i<numposts;i++){var entry=json.feed.entry[i];var posttitle=entry.title.$t;var posturl;if(i==json.feed.entry.length)break;for(var k=0;k<entry.link.length;k++){if(entry.link[k].rel=='replies'&&entry.link[k].type=='text/html'){var commenttext=entry.link[k].title;var commenturl=entry.link[k].href;}
+if(entry.link[k].rel=='alternate'){posturl=entry.link[k].href;break;}}var thumburl;try{thumburl=entry.media$thumbnail.url;}catch(error)
+{s=entry.content.$t;a=s.indexOf("<img");b=s.indexOf("src=\"",a);c=s.indexOf("\"",b+5);d=s.substr(b+5,c-b-5);if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")){thumburl=d;}else thumburl='https://lh6.googleusercontent.com/_dsEG33PDaHw/Tdw5i1GeYnI/AAAAAAAABcM/K_URA3p40_A/sin-imagen.png';}
+var postdate=entry.published.$t;var cdyear=postdate.substring(0,4);var cdmonth=postdate.substring(5,7);var cdday=postdate.substring(8,10);var monthnames=new Array();monthnames[1]="Ene";monthnames[2]="Feb";monthnames[3]="Mar";monthnames[4]="Abr";monthnames[5]="May";monthnames[6]="Jun";monthnames[7]="Jul";monthnames[8]="Ago";monthnames[9]="Sep";monthnames[10]="Oct";monthnames[11]="Nov";monthnames[12]="Dic";document.write('<li class="clearfix">');if(showpostthumbnails==true)
+document.write('<a href="'+posturl+'" target ="_top"><img class="cate_thumb" src="'+thumburl+'"/></a>');document.write('<div class="catetil"><a href="'+posturl+'" target ="_top">'+posttitle+'</a></div><br>');if("content"in entry){var postcontent=entry.content.$t;}
+else
+if("summary"in entry){var postcontent=entry.summary.$t;}
+else var postcontent="";var re=/<\S[^>]*>/g;postcontent=postcontent.replace(re,"");if(showpostsummary==true){if(postcontent.length<numchars){document.write('');document.write(postcontent);document.write('');}
+else{document.write('');postcontent=postcontent.substring(0,numchars);var quoteEnd=postcontent.lastIndexOf(" ");postcontent=postcontent.substring(0,quoteEnd);document.write(postcontent+'...');document.write('');}}
+var towrite='';var flag=0;document.write('<br>');if(showpostdate==true){towrite=towrite+monthnames[parseInt(cdmonth,10)]+'-'+cdday+' - '+cdyear;flag=1;}
+if(showcommentnum==true)
+{if(flag==1){towrite=towrite+' | ';}
+if(commenttext=='1 Comments')commenttext='1 Comment';if(commenttext=='0 Comments')commenttext='No Comments';commenttext='<a href="'+commenturl+'" target ="_top">'+commenttext+'</a>';towrite=towrite+commenttext;flag=1;;}
+if(displaymore==true)
+{if(flag==1)towrite=towrite+' | ';towrite=towrite+'<a href="'+posturl+'" class="url" target ="_top">MÃ¡s Â»</a>';flag=1;;}
+document.write(towrite);document.write('</li>');if(displayseparator==true)
+if(i!=(numposts-1))
+document.write('');}document.write('</ul>');}
+//]]>
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+function labelthumbs(json){document.write('<ul class="label_with_thumbs">');for(var i=0;i<numposts;i++){var entry=json.feed.entry[i];var posttitle=entry.title.$t;var posturl;if(i==json.feed.entry.length)break;for(var k=0;k<entry.link.length;k++){if(entry.link[k].rel=='replies'&&entry.link[k].type=='text/html'){var commenttext=entry.link[k].title;var commenturl=entry.link[k].href;}
+if(entry.link[k].rel=='alternate'){posturl=entry.link[k].href;break;}}var thumburl;try{thumburl=entry.media$thumbnail.url;}catch(error)
+{s=entry.content.$t;a=s.indexOf("<img");b=s.indexOf("src=\"",a);c=s.indexOf("\"",b+5);d=s.substr(b+5,c-b-5);if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")){thumburl=d;}else thumburl='https://lh6.googleusercontent.com/_dsEG33PDaHw/Tdw5i1GeYnI/AAAAAAAABcM/K_URA3p40_A/sin-imagen.png';}
+var postdate=entry.published.$t;var cdyear=postdate.substring(0,4);var cdmonth=postdate.substring(5,7);var cdday=postdate.substring(8,10);var monthnames=new Array();monthnames[1]="Ene";monthnames[2]="Feb";monthnames[3]="Mar";monthnames[4]="Abr";monthnames[5]="May";monthnames[6]="Jun";monthnames[7]="Jul";monthnames[8]="Ago";monthnames[9]="Sep";monthnames[10]="Oct";monthnames[11]="Nov";monthnames[12]="Dic";document.write('<li class="clearfix">');if(showpostthumbnails==true)
+document.write('<a href="'+posturl+'" target ="_top"><img class="label_thumb" src="'+thumburl+'"/></a>');document.write('<strong><a href="'+posturl+'" target ="_top">'+posttitle+'</a></strong><br>');if("content"in entry){var postcontent=entry.content.$t;}
+else
+if("summary"in entry){var postcontent=entry.summary.$t;}
+else var postcontent="";var re=/<\S[^>]*>/g;postcontent=postcontent.replace(re,"");if(showpostsummary==true){if(postcontent.length<numchars){document.write('');document.write(postcontent);document.write('');}
+else{document.write('');postcontent=postcontent.substring(0,numchars);var quoteEnd=postcontent.lastIndexOf(" ");postcontent=postcontent.substring(0,quoteEnd);document.write(postcontent+'...');document.write('');}}
+var towrite='';var flag=0;document.write('<br>');if(showpostdate==true){towrite=towrite+monthnames[parseInt(cdmonth,10)]+'-'+cdday+' - '+cdyear;flag=1;}
+if(showcommentnum==true)
+{if(flag==1){towrite=towrite+' | ';}
+if(commenttext=='1 Comments')commenttext='1 Comment';if(commenttext=='0 Comments')commenttext='No Comments';commenttext='<a href="'+commenturl+'" target ="_top">'+commenttext+'</a>';towrite=towrite+commenttext;flag=1;;}
+if(displaymore==true)
+{if(flag==1)towrite=towrite+' | ';towrite=towrite+'<a href="'+posturl+'" class="url" target ="_top" style="color:white;">Ver Episodio</a>';flag=1;;}
+document.write(towrite);document.write('</li>');if(displayseparator==true)
+if(i!=(numposts-1))
+document.write('');}document.write('</ul>');}
+//]]>
+</script>
+
+<script type='text/javascript'>
+   //<![CDATA[
+    $(window).load(function() {
+    $('#slider').nivoSlider();
+});
+//]]>
+    </script>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<style type='text/css'>
+.main .HTML {display: none;
+}
+.post-title {
+background: #4CB2E2 url(https://lh5.googleusercontent.com/-TOtxP3vZG8o/UOpLoyuLlSI/AAAAAAAAA_4/hf56wgB8F1k/s32/at.jpg) repeat-x;
+border: 1px solid #02A0FF;
+font-size: 24px;
+font-weight: bolder;
+max-width: 100%;
+padding: 6px;
+text-transform: capitalize;
+text-shadow: rgba(0, 0, 0, 0.35) 0px -1px 0px;
+letter-spacing: -1px;
+color: white;
+border-radius: 5px;
+}
+#sidebar-wrapper2{display:none;
+}
+#main-wrapper{width: 710px;
+}
+.date-outer{
+box-shadow: 0 0 5px #CCC;
+margin: 5px 11px;
+padding: 5px;
+border-radius: 5px;
+border: 1px solid white;
+width: 640px;
+}
+</style>
+</b:if>
+
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js' type='text/javascript'/>
+<script type='text/javascript'> 
+ 
+$(document).ready(function() {
+ 
+	//Default Action
+	$(&quot;.tab_content&quot;).hide(); //Hide all content
+	$(&quot;.subtab_content&quot;).hide(); //Hide all content
+	$(&quot;ul.tabs li:first&quot;).addClass(&quot;active&quot;).show(); //Activate first tab
+	$(&quot;ul.subtabs li:first&quot;).addClass(&quot;active&quot;).show(); //Activate first tab
+	$(&quot;.tab_content:first&quot;).show(); //Show first tab content
+	$(&quot;.subtab_content:first&quot;).show();
+	
+	$(&quot;ul.tabs li&quot;).click(function() {
+		$(&quot;ul.tabs li&quot;).removeClass(&quot;active&quot;); //Remove any &quot;active&quot; class
+		$(this).addClass(&quot;active&quot;); //Add &quot;active&quot; class to selected tab
+		$(&quot;.tab_content&quot;).hide(); //Hide all tab content
+		var activeTab = $(this).find(&quot;a&quot;).attr(&quot;href&quot;); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+	
+	$(&quot;ul.subtabs li&quot;).click(function() {
+		$(&quot;ul.subtabs li&quot;).removeClass(&quot;active&quot;); //Remove any &quot;active&quot; class
+		$(this).addClass(&quot;active&quot;); //Add &quot;active&quot; class to selected tab
+		$(&quot;.subtab_content&quot;).hide(); //Hide all tab content
+		var activeTab = $(this).find(&quot;a&quot;).attr(&quot;href&quot;); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+ 
+});
+
+</script>
+<script type='text/javascript'> 
+//<![CDATA[
+
+function newtwitvid(videozer) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://player.longtailvideo.com/player5.9.swf\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<param file=\"http://llphotos.twitvid.com/twitvidvideosv2/" + videozer + ".mp4&amp;logo.file=https://lh4.googleusercontent.com/-CYbM8nSJjjU/UMIUUI-w1EI/AAAAAAAACgQ/m5gKm_XjgZw/s1600/logoqestreno.png&amp;image=http://dl.dropbox.com/u/6188287/animefondo.png&amp;skin=&amp;controlbar.position=over\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</param>";
+  output += "</object>";
+  document.write (output);
+}
+
+function descarga(link,peso) {
+document.write("<center><div id='tensei-descarga'><a href='"+link +"' alt='Descargar este capitulo' target='_blank' > </a> <span>"+peso+"</span></div></center>");
+}
+
+function otrocb(anterior,siguiente) {
+document.write("<center><div style='height:30px; margin-left:5px; margin-top:-25px;'><a class='tip' href='"+anterior +"' style='float: left;' title='Capitulo Anterior'><img src='https://lh4.googleusercontent.com/-wqHKkAVgKCo/UP7_NqBnEYI/AAAAAAAAC7s/fZ-xMPBwbZY/s15/izquierda.JPG' /></a><a class='tip' href='"+siguiente +"' style='float: right; margin-right:11px;' title='Capitulo Siguiente'><img src='https://lh5.googleusercontent.com/-g1u6bHt9ps4/UP7_NilYMMI/AAAAAAAAC7o/mEuOQ9M5iDY/s15/derecha.JPG' /></a></div></center>");
+}
+
+function lista(link) {
+document.write("<a href='"+link +"' id='tensei-lista'>Ver todos los capítulos</a>");
+}
+
+function videobb(videobb) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://www.videobb.com/e/" + videobb + "\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://www.videobb.com/e/" + videobb + "\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function dailymotion(IDdailymotion) {
+  var output = "<iframe title=\"Dailymotion video player\" width=\"600\" height=\"350\" src=\"http://www.dailymotion.com/embed/video/" + IDdailymotion + "?background=%000000\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function verzend(IDverzend) {
+  var output = "<iframe title=\"verzend video player\" width=\"600\" height=\"350\" src=\"http://verzend.be/" + IDverzend + ".html\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function vidbull(IDvidbull) {
+  var output = "<iframe title=\"vidbull video player\" width=\"600\" height=\"350\" src=\"http://vidbull.com/" + IDvidbull + ".html\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function videobam(IDvideobam) {
+  var output = "<iframe allowNetworking=\"internal\" src=\"http://videobam.com/widget/" + IDvideobam + "/custom/610\" width=\"100%\" height=\"350\" frameborder=\"0\" scrolling=\"no\">";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function modovideo(IDmodovideo) {
+  var output = "<iframe src=\"http://www.modovideo.com/frame.php?v=" + IDmodovideo + "\" width=\"600\" height=\"350\" frameborder=\"0\">";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function novamov(IDnovamov) {
+  var output = "<iframe title=\"novamov video player\" width=\"600\" height=\"350\" src=\"http://embed.novamov.com/embed.php?width=600&amp;height=350&amp;v=" + IDnovamov + "&amp;px=1\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function veevr(IDveevr) {
+  var output = "<iframe src=\"http://veevr.com/embed/" + IDveevr + "?w=600&amp;h=350\" width=\"600\" height=\"350\" scrolling=\"no\" frameborder=\"0\">";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function nowvideo(IDnowvideo) {
+  var output = "<iframe src=\"http://embed.nowvideo.eu/embed.php?v=" + IDnowvideo + "&amp;width=600&amp;height=350\" width=\"600\" height=\"350\" scrolling=\"no\" frameborder=\"0\">";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function mediafire(IDmediafire) {
+  var output = "<center><iframe src=\"http://veranimesonline.com/frans/stream/mediafire.php?id=" + IDmediafire + "\" width=\"600\" height=\"350\" scrolling=\"no\" frameborder=\"0\">";
+  output += "</iframe></center>";
+  document.write (output);
+}
+
+function jokeroo(jokeroo) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://www.jokeroo.com/bin/player.swf?" + jokeroo + "\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://www.jokeroo.com/bin/player.swf?" + jokeroo + "\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function moevideo(moevideo) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://moevideo.net/swf/letplayerflx3.swf?file=" + moevideo+ "&amp;width=600amp;height=380\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://moevideo.net/swf/letplayerflx3.swf?file=" + moevideo+ "&amp;width=600&amp;height=350\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function vk(IDvk) {
+  var output = "<center><iframe title=\"vk video player\" width=\"600\" height=\"350\" src=\"http://vk.com/video_ext.php?" + IDvk + "\" frameborder=\"0\"  allowfullscreen>";
+  output += "</iframe></center>";
+  document.write (output);
+}
+
+function allmyvideos(IDallmyvideos) {
+  var output = "<iframe title=\"vk video player\" width=\"600\" height=\"350\" src=\"http://allmyvideos.net/" + IDallmyvideos + "\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function videoweed(IDvideoweed) {
+  var output = "<iframe title=\"vk video player\" width=\"600\" height=\"350\" src=\"http://embed.videoweed.es/embed.php?v=" + IDvideoweed + "&amp;width=600&amp;height=350\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function movzap(IDmovzap) {
+  var output = "<iframe title=\"movzap video player\" width=\"600\" height=\"350\" src=\"http://movzap.com/embed/" + IDmovzap + "\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function vidxden(IDvidxden) {
+  var output = "<iframe title=\"vidxden video player\" width=\"600\" height=\"350\" src=\"http://www.vidxden.com/" + IDvidxden + "&amp;width=640&amp;height=380\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function tutvnew (IDtutvnew) {
+  var output = "<iframe title=\"tutvnew video player\" width=\"600\" height=\"350\" src=\"http://tu.tv/iframe/" + IDtutvnew + "/\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function vreer(IDvreer) {
+  var output = "<iframe title=\"vreer video player\" width=\"600\" height=\"350\" src=\"http://vreer.com/" + IDvreer + "\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function uploadboost(IDuploadboost) {
+  var output = "<iframe title=\"uploadboost video player\" width=\"600\" height=\"350\" src=\"http://www.uploadboost.com/" + IDuploadboost + "&amp;width=600&amp;height=350\" frameborder=\"0\" allowfullscreen>";
+  output += "</iframe>";
+  document.write (output);
+}
+
+function facebook(facebook) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://www.facebook.com/v/" + facebook + "\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://www.facebook.com/v/" + facebook + "\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function tutv(tutv) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" >";
+  output += "<param name=\"movie\" value=\"http://tu.tv/tutvweb.swf?" + tutv  + "\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://tu.tv/tutvweb.swf?" + tutv + "\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function rutube(rutube) {
+  var output = "<object id=\"player\" width=\"600\" height=\"350\" >";
+  output += "<param name=\"movie\" value=\"http://video.rutube.ru/" + rutube + "\" >";
+  output += "</param>";
+  output += "<param name=\"allowFullScreen\" value=\"true\" >";
+  output += "</param>";
+  output += "<param name=\"allowscriptaccess\" value=\"always\">";
+  output += "</param>";
+  output += "<embed src=\"http://video.rutube.ru/" + rutube + "\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\">";
+  output += "</embed>";
+  output += "</object>";
+  document.write (output);
+}
+
+function youtube(IDyoutube) {
+  var output = "<embed src=\"http://www.youtube-nocookie.com/v/" + IDyoutube + "?&amp;hl=en&amp;fs=1&amp;color1=0x000000&amp;color2=0x000000&amp;showinfo=0&amp;autoplay=0&amp;showsearch=0&amp;rel=0&amp;iv_load_policy=3\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"600\" height=\"350\"> ";
+  output += "</embed>";
+  document.write (output);
+}
+//]]>
+</script>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<style type='text/css'>
+#sidebar {
+display: none;
+}
+#sidebar-wrapper {
+width: 315px;
+float:right;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#main-wrapper{
+width: 665px;
+}
+</style>
+</b:if>
+<script> 
+$(document).ready(function(){ 
+$(&#39;#tensei-descarga&#39;).appendTo(&#39;.tensei-descarga&#39;); 
+$(&#39;#tensei-lista&#39;).appendTo(&#39;.tensei-lista&#39;); 
+}); 
+</script>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<style type='text/css'>
+#tensei-descarga {
+display: none;
+}
+#tensei-lista {
+display: none;
+}
+.publi-tensei {
+display: none;
+}
+.report {
+display: none;
+}
+</style>
+</b:if>
+<style>
+/* Slider in index */
+.rclst{overflow:hidden;float:left;background:#FFF;border:1px solid #DDD;padding:4px;border-left:0;width:830px;font-size:14px;}
+#rslides-container{margin-bottom:15px;}
+#rclist{margin:0;padding:0;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+#rclist li{float:left;margin:0;line-height:33px;margin-right:5px;}
+#rclist a{color:#333;border-right:1px solid #DDD;padding-right:7px;margin-left:5px;line-height:33px;padding-left:2px;}
+#rclist a:hover{color:#388e3c;}.rslides img:hover{-ms-transform:scale(1.1) rotate(3deg);transform:scale(1.1) rotate(3deg);-webkit-transform:scale(1.1) rotate(3deg);-o-transform:scale(1.1) rotate(3deg);-moz-transform:scale(1.1) rotate(3deg);opacity:.7;filter:alpha(opacity=70);}
+#rclist a:last-child{border:0;}
+#recent-anime{margin:0 10px 15px 0;border:1px solid #DDD;background:#FFF;border-left:-0;max-height:32px;}
+#rclist h3{float:left;display:inline-block;margin:0 4px 0 0;background:#333;border-left:5px solid #388e3c;font-size:14px;color:#FFF;font-weight:400;padding:6px 10px 6px 8px;font-family:&#39;Open Sans Condensed&#39;,sans-serif;text-transform:uppercase;}
+.rslides{position:relative;list-style:none;overflow:hidden;width:100%;padding:0;margin:0;}
+.rslides li{margin:0;position:relative;display:block;-webkit-backface-visibility:hidden;position:absolute;display:none;width:100%;left:0;top:0;}
+.rslides li:first-child{position:relative;display:block;float:left;}
+.rslides img{display:block;height:auto;float:left;width:100%;border:0;}
+.rslides .rstle{margin:0;padding:7px 10px;font-family:&#39;Open Sans Condensed&#39;,sans-serif;text-transform:uppercase;font-size:17px;font-weight:400;background:#333;display:inline-block;position:absolute;bottom:54px;left:20px;color:#fff;}
+.rslides .rstle a{color:#fff;}
+.rslides .rstle a:hover{color:#ddd;}
+.rslides .rsdesc{background:#4caf50;color:#fff;font-weight:700;font-size:12px;padding:5px 8px;display:inline-block;position:absolute;bottom:23px;left:20px;}
+/*<![CDATA[*/
+@media screen and (min-width:940px)and (max-width:1124px){#header{width:94%;}#nav_header{width:94%;}#outer-wrapper{width:94%;padding:1%;}.centered{width:98%;}#sidebar-wrapper{width:30%;}#main-wrapper{width:67%;margin-right:20px;}.post-body{font-size:90%;}.populars .popular-posts li{width:32.5%;}.foot{width:32%;}}
+@media screen and (min-width:876px)and (max-width:940px){#header{width:94%;}#nav_header{width:94%;}#outer-wrapper{width:94%;padding:1%;}.centered{width:98%;}#sidebar-wrapper{width:30%;}#main-wrapper{width:67%;margin-right:20px;}.post-body{font-size:90%;}.populars .popular-posts li{width:32.5%;}.foot{width:32%;}}
+@media screen and (min-width:770px)and (max-width:876px){#header{width:98%;}#nav_header{width:98%;}#outer-wrapper{width:98%;}.centered{width:98%;}#main-wrapper{width:68%;margin-right:10px;}#sidebar-wrapper{float:left;width:30%;}.populars .popular-posts li{width:32.5%;}.popular-posts .item-title a{width:96%!important;padding:2%!important;}.foot{width:31%;}}
+@media screen and (min-width:640px)and (max-width:770px){#header{width:98%;}#nav_header{width:98%;}#outer-wrapper{width:98%;}.centered{width:98%;}#main-wrapper{width:100%;margin-right:0;}#sidebar-wrapper{float:left;width:100%;}.populars .popular-posts li{width:32.5%;}.popular-posts .item-title a{width:96%!important;padding:2%!important;}.foot{width:31%;}}
+@media screen and (max-width:640px){#header{width:98%;}#nav_header{width:98%;}#outer-wrapper{width:98%;}.centered{width:98%;}#main-wrapper{width:100%;margin-right:0;}#sidebar-wrapper{float:left;width:100%;}.populars .popular-posts li{width:32.3%;}.popular-posts .item-title a{width:96%!important;padding:2%!important;}.foot{width:100%;margin:0;}.showpageOf{display:none;}span.showpagePoint,span.showpageNum,span.showpage{display:inline-block;float:none!important;margin-bottom:2px;}.related-post-style-3 li{max-width:32%;}}
+@media screen and (max-width:515px){.fleft,.fright{float:none;margin-top:5px;}.search-submit{position:absolute;right:0;top:0;}.fleft{position:relative;}.search-input{width:97%;}.genrebox{width:92%;}.populars .popular-posts li{width:48.5%;}.populars .popular-posts li:nth-child(3), .populars .popular-posts li:nth-child(6){margin-right:5px;}}
+@media screen and (max-width:600px){.tinynav{display:block;border:0;padding:5px;width:100%;background:#222;color:#fff;outline:0;}#navmob{display:none;}.post-header .post-comment-link{float:none;clear:both;display:block;font-size:90%;}.post-header{font-size:97%;}.related-post-item-tooltip{padding:2%;}}
+@media screen and (min-width:500px)and (max-width:640px){.related-post-style-3 li{max-width:100%;width:18.7%;}}
+@media screen and (max-width:480px){.genrebox{width:85%;}#rslides-container{display:none;}.thumbnail img{width:100%;height:100%;}.thumbnail{width:75px;height:75px;}h2.entry-title{font-size:13px;font-family:Arial;font-weight:700;}.article{overflow:hidden;font-size:95%;}.post-share-buttons{display:none;}.post-read{font-family:Arial;font-weight:700;}.related-post-style-3 li{width:90%;margin:0 auto 10px 3px;}.socialshare a{padding:2% 4%;width:94%;}.synop_infs{margin:0;clear:both;display:block;padding:10px 0;}.synop_thumbs{float:none;display:block;margin:auto;}.post.hentry{font-size:95%;}#rclist{font-size:90%!important;}}
+@media screen and (max-width:425px){.populars .popular-posts li{width:100%;margin:0 0 7px!important;}}
+@media screen and (max-width:320px){.thumbnail{display:none;}#rclist h3{font-size:100%;}#outer-wrapper{width:94%;}#nav_header{width:94%;}#header{width:94%;}.breadcrumbs span{width:100%;margin-top:1px;}.related-post-style-3 li{float:none;width:100%;}}
+/*]]>*/</style>
+<script type='text/javascript'>//<![CDATA[
+function showLucky(e){for(var t=e.feed,a=(t.entry||[],t.entry[0]),n=0;n<a.link.length;++n)"alternate"==a.link[n].rel&&(window.location=a.link[n].href)}function fetchLuck(e){script=document.createElement("script"),script.src="/feeds/posts/summary?start-index="+e+"&max-results=1&alt=json-in-script&callback=showLucky",script.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(script)}function readLucky(e){var t=e.feed,a=parseInt(t.openSearch$totalResults.$t,10),n=Math.floor(Math.random()*a);n++,fetchLuck(n)}function feelingLucky(){var e=document.createElement("script");e.type="text/javascript",e.src="/feeds/posts/summary?max-results=0&alt=json-in-script&callback=readLucky",document.getElementsByTagName("head")[0].appendChild(e)}$(function(){$(".rslides").responsiveSlides({auto:!0,speed:1e3,timeout:6e3,pager:!1,nav:!1,random:!0,pause:!0,pauseControls:!0,prevText:"Previous",nextText:"Next",maxwidth:"",navContainer:"",manualControls:"",namespace:"rslides",before:function(){},after:function(){}})}),function(e,t,a){e.fn.tinyNav=function(n){var s=e.extend({active:"selected",header:"",label:""},n);return this.each(function(){a++;var n=e(this),o="tinynav"+a,i=".l_"+o,r=e("<select/>").attr("id",o).addClass("tinynav "+o);if(n.is("ul,ol")){""!==s.header&&r.append(e("<option/>").text(s.header));var l="";n.addClass("l_"+o).find("a").each(function(){l+='<option value="'+e(this).attr("href")+'">';var t;for(t=0;t<e(this).parents("ul, ol").length-1;t++)l+="- ";l+=e(this).text()+"</option>"}),r.append(l),s.header||r.find(":eq("+e(i+" li").index(e(i+" li."+s.active))+")").attr("selected",!0),r.change(function(){t.location.href=e(this).val()}),e(i).after(r),s.label&&r.before(e("<label/>").attr("for",o).addClass("tinynav_label "+o+"_label").append(s.label))}})}}(jQuery,this,0),$(function(){$("#navmob").tinyNav({active:"selected",header:"Navigation",indent:"- ",label:""})}),function(e,t,a){e.fn.responsiveSlides=function(n){var s=e.extend({auto:!0,speed:500,timeout:4e3,pager:!1,nav:!1,random:!1,pause:!1,pauseControls:!0,prevText:"Previous",nextText:"Next",maxwidth:"",navContainer:"",manualControls:"",namespace:"rslides",before:e.noop,after:e.noop},n);return this.each(function(){a++;var o,i,r,l,c,u,d=e(this),f=0,p=d.children(),h=p.size(),v=parseFloat(s.speed),m=parseFloat(s.timeout),C=parseFloat(s.maxwidth),x=s.namespace,y=x+a,b=x+"_nav "+y+"_nav",g=x+"_here",k=y+"_on",w=y+"_s",_=e("<ul class='"+x+"_tabs "+y+"_tabs' />"),I={"float":"left",position:"relative",opacity:1,zIndex:2},T={"float":"none",position:"absolute",opacity:0,zIndex:1},q=function(){var e=(document.body||document.documentElement).style,t="transition";if("string"==typeof e[t])return!0;o=["Moz","Webkit","Khtml","O","ms"];var a,t=t.charAt(0).toUpperCase()+t.substr(1);for(a=0;a<o.length;a++)if("string"==typeof e[o[a]+t])return!0;return!1}(),z=function(t){s.before(t),q?(p.removeClass(k).css(T).eq(t).addClass(k).css(I),f=t,setTimeout(function(){s.after(t)},v)):p.stop().fadeOut(v,function(){e(this).removeClass(k).css(T).css("opacity",1)}).eq(t).fadeIn(v,function(){e(this).addClass(k).css(I),s.after(t),f=t})};if(s.random&&(p.sort(function(){return Math.round(Math.random())-.5}),d.empty().append(p)),p.each(function(e){this.id=w+e}),d.addClass(x+" "+y),n&&n.maxwidth&&d.css("max-width",C),p.hide().css(T).eq(0).addClass(k).css(I).show(),q&&p.show().css({"-webkit-transition":"opacity "+v+"ms ease-in-out","-moz-transition":"opacity "+v+"ms ease-in-out","-o-transition":"opacity "+v+"ms ease-in-out",transition:"opacity "+v+"ms ease-in-out"}),1<p.size()){if(v+100>m)return;if(s.pager&&!s.manualControls){var L=[];p.each(function(e){e+=1,L+="<li><a href='#' class='"+w+e+"'>"+e+"</a></li>"}),_.append(L),n.navContainer?e(s.navContainer).append(_):d.after(_)}if(s.manualControls&&(_=e(s.manualControls),_.addClass(x+"_tabs "+y+"_tabs")),(s.pager||s.manualControls)&&_.find("li").each(function(t){e(this).addClass(w+(t+1))}),(s.pager||s.manualControls)&&(u=_.find("a"),i=function(e){u.closest("li").removeClass(g).eq(e).addClass(g)}),s.auto&&(r=function(){c=setInterval(function(){p.stop(!0,!0);var e=h>f+1?f+1:0;(s.pager||s.manualControls)&&i(e),z(e)},m)})(),l=function(){s.auto&&(clearInterval(c),r())},s.pause&&d.hover(function(){clearInterval(c)},function(){l()}),(s.pager||s.manualControls)&&(u.bind("click",function(t){t.preventDefault(),s.pauseControls||l(),t=u.index(this),f===t||e("."+k).queue("fx").length||(i(t),z(t))}).eq(0).closest("li").addClass(g),s.pauseControls&&u.hover(function(){clearInterval(c)},function(){l()})),s.nav){x="<a href='#' class='"+b+" prev'>"+s.prevText+"</a><a href='#' class='"+b+" next'>"+s.nextText+"</a>",n.navContainer?e(s.navContainer).append(x):d.after(x);var y=e("."+y+"_nav"),N=y.filter(".prev");y.bind("click",function(t){if(t.preventDefault(),t=e("."+k),!t.queue("fx").length){var a=p.index(t);t=a-1,a=h>a+1?f+1:0,z(e(this)[0]===N[0]?t:a),(s.pager||s.manualControls)&&i(e(this)[0]===N[0]?t:a),s.pauseControls||l()}}),s.pauseControls&&y.hover(function(){clearInterval(c)},function(){l()})}}if("undefined"==typeof document.body.style.maxWidth&&n.maxwidth){var j=function(){d.css("width","100%"),d.width()>C&&d.css("width",C)};j(),e(t).bind("resize",function(){j()})}})}}(jQuery,this,0);//]]></script> 
+
+
+  </head>
+
+  <body>
+<div id='fb-root'/>
+<script src='http://connect.facebook.net/es_ES/all.js#xfbml=1'/>
+  <div id='outer-wrapper'><div id='wrap2'>
+
+    <!-- skip links for text browsers -->
+    <span id='skiplinks' style='display:none;'>
+      <a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+    </span>
+
+    <div class='clearfix' id='header-wrapper'>
+
+<div id='hh'> <div id='eih'/> <div id='h'> <h10 class='title'><a href='#'> Ver <data:blog.pageName/> Online</a> - <a href='#'><data:blog.pageName/> Sub Español</a> - <a href='#'> Ver <data:blog.pageName/> Anime Online</a> - <a href='#'>Ver <data:blog.pageName/> HD</a></h10> </div> <div id='edh'/> </div>
+
+      <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
+        <b:widget id='Header1' locked='true' title='Demo-Animeid (cabecera)' type='Header' version='1'>
+          <b:widget-settings>
+            <b:widget-setting name='displayUrl'>http://2.bp.blogspot.com/-S-PzoyEJlJc/Wk6jJydOMCI/AAAAAAAACo0/O2CTcOISBVEKjvsJCnRUbMqgQWIn2jg2gCK4BGAYYCw/s1600/logoid.png</b:widget-setting>
+            <b:widget-setting name='displayHeight'>98</b:widget-setting>
+            <b:widget-setting name='sectionWidth'>1068</b:widget-setting>
+            <b:widget-setting name='useImage'>true</b:widget-setting>
+            <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+            <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
+            <b:widget-setting name='displayWidth'>238</b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main'>
+
+  <b:if cond='data:useImage'>
+    <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
+      <b:if cond='data:mobile'>
+          <div id='header-inner'>
+            <div class='titlewrapper' style='background: transparent'>
+              <h1 class='title' style='background: transparent; border-width: 0px'>
+                <b:include name='title'/>
+              </h1>
+            </div>
+            <b:include name='description'/>
+          </div>
+        <b:else/>
+          <div expr:style='&quot;background-image: url(\&quot;&quot; + data:sourceUrl + &quot;\&quot;); &quot;                        + &quot;background-position: &quot;                        + data:backgroundPositionStyleStr + &quot;; &quot;                        + data:widthStyleStr                        + &quot;min-height: &quot; + data:height                        + &quot;_height: &quot; + data:height                        + &quot;background-repeat: no-repeat; &quot;' id='header-inner'>
+            <div class='titlewrapper' style='background: transparent'>
+              <h1 class='title' style='background: transparent; border-width: 0px'>
+                <b:include name='title'/>
+              </h1>
+            </div>
+            <b:include name='description'/>
+          </div>
+        </b:if>
+    <b:else/>
+      <!--Show the image only-->
+      <div id='header-inner'>
+        <a expr:href='data:blog.homepageUrl' style='display: block'>
+          <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_headerimg&quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/>
+        </a>
+        <!--Show the description-->
+        <b:if cond='data:imagePlacement == &quot;BEFORE_DESCRIPTION&quot;'>
+          <b:include name='description'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <!--No header image -->
+    <div id='header-inner'>
+      <div class='titlewrapper'>
+        <h1 class='title'>
+          <b:include name='title'/>
+        </h1>
+      </div>
+      <b:include name='description'/>
+    </div>
+  </b:if>
+</b:includable>
+          <b:includable id='description'>
+  <div class='descriptionwrapper'>
+    <p class='description'><span><data:description/></span></p>
+  </div>
+</b:includable>
+          <b:includable id='title'>
+  <b:if cond='data:blog.url == data:blog.homepageUrl'>
+    <data:title/>
+  <b:else/>
+    <a expr:href='data:blog.homepageUrl'><data:title/></a>
+  </b:if>
+</b:includable>
+        </b:widget>
+      </b:section>
+
+<div id='mm'>
+<div id='eim'/>
+<div id='m'>
+<ul id='i'>
+<li>
+<div id='id'/>
+</li>
+</ul>
+<ul id='uno'>
+<li><a class='menu' href='/'>Inicio</a></li>
+<li><a class='menu' href='https://exilontemplates.blogspot.mx/' target='_blank'>ExilonTemplates</a></li>
+<li><a class='menu' href='http://peliculasonlineflv.org'>Ver Peliculas Online Gratis</a></li>
+</ul>
+<ul id='dos'>
+<li><a class='menu' href='http://www.facebook.com/ClonesBlogger'>Clones Blogger Face</a></li>
+</ul>
+
+<form action='/search' id='b' method='get'>
+<a href='#' style='displa:block;float:left;margin:3px;' target='_blank'><img alt='Twitter' border='0' class='tip' height='24' src='https://lh5.googleusercontent.com/-13RpHmiH6Qo/ThzHeqwiABI/AAAAAAAABHA/ihImXE1w-IY/tw.png' title='Siguenos en Twitter' width='24'/></a>
+<a href='#' style='displa:block;float:left;margin:3px;' target='_blank'><img alt='Facebook' border='0' class='tip' height='24' src='https://lh3.googleusercontent.com/-GJrEtwdRRDw/ThzHZc1lesI/AAAAAAAABG8/kA1CkSoiU_U/fb.png' title='Siguenos en Facebook' width='24'/></a>
+<input name='site' type='hidden' value='URL-DE-TU-WEB'/>
+<input id='q' name='q' onblur='if(this.value==&apos;&apos;){ var texto=this.value=&apos;Ingresa tu busqueda&apos;; }' onfocus='if(this.value==&apos;Ingresa tu busqueda&apos;) this.value=&apos;&apos;;' type='text' value='Ingresa tu busqueda'/>
+<input id='bb' style='text-indent:-9999px' type='submit' value='Buscar'/>
+</form>
+
+</div><div id='edm'/>
+
+
+
+</div>
+
+      <div id='crosscol-wrapper'>
+        <b:section class='crosscol' id='crosscol' maxwidgets='1' showaddelement='no'/>
+      </div>
+    </div>
+<div id='mt'/>
+ <div id='mmm'>
+
+<div class='cc fleft'>
+<div class='ctit'>Animes por orden alfabetico:</div>
+<div class='ccon'>
+<ul class='alfa' style='margin-top:6px; margin-left: 5px;'> 
+<li><a class='let' href='/search/label/a'>A</a></li> 
+<li><a class='let' href='/search/label/b'>B</a></li> 
+<li><a class='let' href='/search/label/c'>C</a></li> 
+<li><a class='let' href='/search/label/d'>D</a></li> 
+<li><a class='let' href='/search/label/e'>E</a></li> 
+<li><a class='let' href='/search/label/f'>F</a></li> 
+<li><a class='let' href='/search/label/g'>G</a></li> 
+<li><a class='let' href='/search/label/h'>H</a></li> 
+<li><a class='let' href='/search/label/i'>I</a></li> 
+<li><a class='let' href='/search/label/j'>J</a></li> 
+<li><a class='let' href='/search/label/k'>K</a></li> 
+<li><a class='let' href='/search/label/l'>L</a></li> 
+<li><a class='let' href='/search/label/m'>M</a></li> 
+<li><a class='let' href='/search/label/n'>N</a></li> 
+<li><a class='let' href='/search/label/o'>O</a></li> 
+<li><a class='let' href='/search/label/p'>P</a></li> 
+</ul> 
+<ul class='alfa' style='margin-left: 70px'> 
+<li><a class='let' href='/search/label/q'>Q</a></li> 
+<li><a class='let' href='/search/label/r'>R</a></li> 
+<li><a class='let' href='/search/label/s'>S</a></li> 
+<li><a class='let' href='/search/label/t'>T</a></li> 
+<li><a class='let' href='/search/label/u'>U</a></li> 
+<li><a class='let' href='/search/label/v'>V</a></li> 
+<li><a class='let' href='/search/label/w'>W</a></li> 
+<li><a class='let' href='/search/label/x'>X</a></li> 
+<li><a class='let' href='/search/label/y'>Y</a></li> 
+<li><a class='let' href='/search/label/z'>Z</a></li> 
+</ul> 
+</div>
+</div>
+<div class='cc fleft'>
+<div class='ctit'>Animes por género:</div>
+<div class='ccon'>
+<div id='genuno'>
+<ul class='alfa' style='margin-top:6px; margin-left: 31px;'><li><a class='let' href='search/label/accion'>Accin</a></li><li><a class='let' href='search/label/aventura'>Aventura</a></li><li><a class='let' href='search/label/carreras'>Carreras</a></li><li><a class='let' href='search/label/comedia'>Comedia</a></li><li><a class='let' href='search/label/cyberpunk'>Cyberpunk</a></li></ul>
+<ul class='alfa' style='margin-left: 30px;'><li><a class='let' href='search/label/deportes'>Deportes</a></li><li><a class='let' href='search/label/drama'>Drama</a></li><li><a class='let' href='search/label/ecchi'>Ecchi</a></li><li><a class='let' href='search/label/escolares'>Escolares</a></li><li><a class='let' href='search/label/fantasia'>Fantasa</a></li><li><a class='let' href='javascript:void(0);' id='unodos'><img alt='Siguiente' border='0' src='https://lh4.googleusercontent.com/-CMUfwxpV6uo/UNDskt59sgI/AAAAAAAAA30/GShgP95o1NU/s14/ncat.png'/></a></li></ul>
+</div>
+<div id='gendos' style='display: none; margin-top:6px;'>
+<ul class='alfa' style='margin-left:29px;'><li><a class='let' href='javascript:void(0);' id='dosuno'><img alt='Anterior' border='0' src='https://lh4.googleusercontent.com/-f_w8PqGDPKA/UNDskjr5JoI/AAAAAAAAA3w/_TOsEyc9gGk/s14/pcat.png'/></a></li><li><a class='let' href='search/label/ficcion'>Ficcin</a></li><li><a class='let' href='search/label/gore'>Gore</a></li><li><a class='let' href='search/label/harem'>Harem</a></li><li><a class='let' href='search/label/horror'>Horror</a></li><li><a class='let' href='search/label/josei'>Josei</a></li><li><a class='let' href='search/label/lucha'>Lucha</a></li></ul>
+<ul class='alfa' style='margin-left: 50px;'><li><a class='let' href='search/label/magia'>Magia</a></li><li><a class='let' href='search/label/mecha'>Mecha</a></li><li><a class='let' href='search/label/militar'>Militar</a></li><li><a class='let' href='search/label/misterio'>Misterio</a></li><li><a class='let' href='search/label/musica'>Msica</a></li><li><a class='let' href='javascript:void(0);' id='dostres'><img alt='Siguiente' border='0' src='https://lh4.googleusercontent.com/-CMUfwxpV6uo/UNDskt59sgI/AAAAAAAAA30/GShgP95o1NU/s14/ncat.png'/></a></li></ul>
+</div>
+<div id='gentres' style='display: none; margin-top:6px;'>
+<ul class='alfa' style='margin-left: 5px;'><li><a class='let' href='javascript:void(0);' id='tresdos'><img alt='Anterior' border='0' src='https://lh4.googleusercontent.com/-f_w8PqGDPKA/UNDskjr5JoI/AAAAAAAAA3w/_TOsEyc9gGk/s14/pcat.png'/></a></li><li><a class='let' href='search/label/parodias'>Parodias</a></li><li><a class='let' href='search/label/psicologico'>Psicolgico</a></li><li><a class='let' href='search/label/recuentos-de-la-vida'>Recuentos de la Vida</a></li><li><a class='let' href='search/label/romance'>Romance</a></li></ul>
+<ul class='alfa' style='margin-left: 40px;'><li><a class='let' href='search/label/seinen'>Seinen</a></li><li><a class='let' href='search/label/shojo'>Shojo</a></li><li><a class='let' href='search/label/shonen'>Shonen</a></li><li><a class='let' href='search/label/vampiros'>Vampiros</a></li><li><a class='let' href='search/label/yaoi'>Yaoi</a></li><li><a class='let' href='search/label/yuri'>Yuri</a></li></ul>
+</div>
+</div></div>
+
+      <div id='sidebar-wrapper2'>
+<b:section class='sidebar' id='sidebar2' preferred='yes'>
+  <b:widget id='Navbar1' locked='true' title='Barra de navegación' type='Navbar' version='1'>
+    <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener(&#39;load&#39;,
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent(&#39;onload&#39;, function(){ object[attribute] = val; });
+      }
+    }
+  &lt;/script&gt;
+&lt;div id=&quot;navbar-iframe-container&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://apis.google.com/js/plusone.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+      gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
+        if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: &#39;https://draft.blogger.com/navbar.g?targetBlogID\x3d6338364979782555868\x26blogName\x3dDemo-Animeid\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dDISABLED\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://demo-animeid-plantilla.blogspot.com/search\x26blogLocale\x3des\x26v\x3d2\x26homepageUrl\x3dhttps://demo-animeid-plantilla.blogspot.com/\x26vt\x3d-3980779640993704806&#39;,
+              where: document.getElementById(&quot;navbar-iframe-container&quot;),
+              id: &quot;navbar-iframe&quot;
+          });
+        }
+      });
+    &lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+var script = document.createElement(&#39;script&#39;);
+script.type = &#39;text/javascript&#39;;
+script.src = &#39;//pagead2.googlesyndication.com/pagead/js/google_top_exp.js&#39;;
+var head = document.getElementsByTagName(&#39;head&#39;)[0];
+if (head) {
+head.appendChild(script);
+}})();
+&lt;/script&gt;
+</b:includable>
+  </b:widget>
+  <b:widget id='Attribution1' locked='true' title='' type='Attribution'>
+    <b:widget-settings>
+      <b:widget-setting name='copyright'/>
+    </b:widget-settings>
+    <b:includable id='main'>
+    <div class='widget-content' style='text-align: center;'>
+      <b:if cond='data:attribution != &quot;&quot;'>
+       <data:attribution/>
+      </b:if>
+    </div>
+
+    <b:include name='quickedit'/>
+  </b:includable>
+  </b:widget>
+  <b:widget id='HTML56' locked='false' title='Importante' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Tú publicidad Aqui n.n</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+</b:section>
+      </div>
+
+    <div id='content-wrapper'>
+      <div class='clearfix' id='main-wrapper'>
+<b:if cond='data:blog.pageType != &quot;item&quot; and data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+
+<nav id='rslides-container'>
+<ul class='rslides'>
+  <li>
+	<a href='#' title='Anime'><img alt='Anime' src='http://2.bp.blogspot.com/-ytxa-y5Y-Pc/VKsW8OJHoMI/AAAAAAAADL0/-9t1hACXMR4/s1600/slider_one.png' title='Anime'/></a>
+    <h3 class='rstle'>Robotic Notes</h3>
+	<span class='rsdesc'>Slider Description One</span>
+  </li>
+  <li>
+	<a href='#' title='Anime'><img alt='Anime' src='http://2.bp.blogspot.com/-HDBdEFsi3Bg/VKsXAeTUPPI/AAAAAAAADMA/K-dRkqSDTVM/s1600/slider_two.png' title='Anime'/></a>
+    <h3 class='rstle'>Fan Art Songoku Hime</h3>
+	<span class='rsdesc'>Slider Description Two</span>
+  </li>
+  <li>
+	<a href='#' title='Anime'><img alt='Anime' src='http://4.bp.blogspot.com/-plIhFb9vRb4/VKsW_k1J9uI/AAAAAAAADL8/bfi9zVuC-HU/s1600/slider_three.png' title='Anime'/></a>
+	<h3 class='rstle'>Hatsune Miku Instrument</h3>
+	<span class='rsdesc'>Slider Description Three</span>
+  </li>
+  <li>
+	<a href='#' title='Anime'><img alt='Anime' src='http://2.bp.blogspot.com/-zVTr7ihbSNg/VKsW67DzkLI/AAAAAAAADLs/9igqSDWBgIg/s1600/slider_four.png' title='Anime'/></a>
+    <h3 class='rstle'>Hatsune Miku Chibi</h3>
+	<span class='rsdesc'>Slider Description Four</span>
+  </li>
+  <li>
+	<a href='#' title='Anime'><img alt='Anime' src='http://4.bp.blogspot.com/-g907drhZAEw/VKsW5PXwR-I/AAAAAAAADLk/Rdf34EJMgww/s1600/slider_five.png' title='Anime'/></a>
+    <h3 class='rstle'>Fan Art Sengoku Hime</h3>
+	<span class='rsdesc'>Slider Description Five</span>
+  </li>
+  </ul>
+</nav></b:if></b:if>
+        <b:section class='main' id='main' showaddelement='yes'>
+          <b:widget id='HTML2' locked='false' title='Ultimas Series Agregadas:' type='HTML'>
+            <b:widget-settings>
+              <b:widget-setting name='content'>&lt;script type=&#39;text/javascript&#39;&gt;var numposts = 20;var showpostthumbnails = true;var displaymore = false;var displayseparator = true;var showcommentnum = false;var showpostdate = false;var showpostsummary = false;var numchars = 100;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/feeds/posts/default/-/Anime?published&amp;alt=json-in-script&amp;callback=catethumbs&quot;&gt;&lt;/script&gt;</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+          </b:widget>
+          <b:widget id='HTML3' locked='false' title='Ultimos Capitulos:' type='HTML'>
+            <b:widget-settings>
+              <b:widget-setting name='content'>&lt;script type=&#39;text/javascript&#39;&gt;var numposts = 20;var showpostthumbnails = true;var displaymore = true;var displayseparator = true;var showcommentnum = false;var showpostdate = true;var showpostsummary = false;var numchars = 200;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/feeds/posts/default/-/Capitulo?published&amp;alt=json-in-script&amp;callback=labelthumbs&quot;&gt;&lt;/script&gt;</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+          </b:widget>
+          <b:widget id='Blog1' locked='true' title='Entradas del blog' type='Blog' version='1'>
+            <b:widget-settings>
+              <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+              <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+              <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+              <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+              <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+              <b:widget-setting name='showAuthor'>false</b:widget-setting>
+              <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+              <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+              <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+              <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+              <b:widget-setting name='showLabels'>false</b:widget-setting>
+              <b:widget-setting name='showLocation'>false</b:widget-setting>
+              <b:widget-setting name='showTimestamp'>false</b:widget-setting>
+              <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+              <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+              <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+              <b:widget-setting name='showReactions'>false</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main' var='top'>
+
+  <b:if cond='data:top.showDummy'>
+    <script expr:src='data:top.dummyUrl'/>
+  </b:if>
+
+  <b:if cond='data:mobileindex'>
+    <!-- mobile index -->
+    <div class='blog-posts hfeed'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isFirstPost == &quot;false&quot;'>
+          &lt;/div&gt;
+        </b:if>
+        &lt;div class=&quot;mobile-date-outer date-outer&quot;&gt;
+        <div expr:onclick='data:post.indexOnclick'>
+          <b:include data='post' name='mobile-index-post'/>
+        </div>
+        <b:if cond='data:post.trackLatency'>
+          <data:post.latencyJs/>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;
+      </b:if>
+    </div>
+  <b:else/>
+
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <data:defaultAdStart/>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart'>
+          <b:if cond='data:post.isFirstPost == &quot;false&quot;'>
+            &lt;/div&gt;&lt;/div&gt;
+          </b:if>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+          <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+        <b:include data='post' name='post'/>
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:include data='post' name='comments'/>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:include data='post' name='comments'/>
+        </b:if>
+        </div>
+        <b:if cond='data:post.includeAd'>
+          <b:if cond='data:post.isFirstPost'>
+            <data:defaultAdEnd/>
+          <b:else/>
+            <data:adEnd/>
+          </b:if>
+          <b:if cond='data:mobile == &quot;false&quot;'>
+            <div class='inline-ad'>
+              <data:adCode/>
+            </div>
+          </b:if>
+          <data:adStart/>
+        </b:if>
+        <b:if cond='data:post.trackLatency'>
+          <data:post.latencyJs/>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+      <data:adEnd/>
+    </div>
+  </b:if>
+<div class='clear'/>
+  <!-- navigation -->
+  <b:if cond='data:mobile'>
+    <b:include name='mobile-nextprev'/>
+  <b:else/>
+    <b:include name='nextprev'/>
+
+    <!-- feed links -->
+    <b:include name='feedLinks'/>
+  </b:if>
+
+  <b:if cond='data:top.showStars'>
+    <script src='//www.google.com/jsapi' type='text/javascript'/>
+    <script type='text/javascript'>
+      google.load(&quot;annotations&quot;, &quot;1&quot;, {&quot;locale&quot;: &quot;<data:top.languageCode/>&quot;});
+      function initialize() {
+        google.annotations.setApplicationId(<data:top.blogspotReviews/>);
+        google.annotations.createAll();
+        google.annotations.fetch();
+      }
+      google.setOnLoadCallback(initialize);
+    </script>
+  </b:if>
+</b:includable>
+            <b:includable id='backlinkDeleteIcon' var='backlink'>
+  <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
+    <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
+      <img src='//www.blogger.com/img/icon_delete13.gif'/>
+    </a>
+  </span>
+</b:includable>
+            <b:includable id='backlinks' var='post'>
+  <a name='links'/><h4><data:post.backlinksLabel/></h4>
+  <b:if cond='data:post.numBacklinks != 0'>
+    <dl class='comments-block' id='comments-block'>
+      <b:loop values='data:post.backlinks' var='backlink'>
+        <div class='collapsed-backlink backlink-control'>
+          <dt class='comment-title'>
+            <span class='backlink-toggle-zippy'>&#160;</span>
+            <a expr:href='data:backlink.url' rel='nofollow'><data:backlink.title/></a>
+            <b:include data='backlink' name='backlinkDeleteIcon'/>
+          </dt>
+          <dd class='comment-body collapseable'>
+            <data:backlink.snippet/>
+          </dd>
+          <dd class='comment-footer collapseable'>
+            <span class='comment-author'><data:post.authorLabel/> <data:backlink.author/></span>
+            <span class='comment-timestamp'><data:post.timestampLabel/> <data:backlink.timestamp/></span>
+          </dd>
+        </div>
+      </b:loop>
+    </dl>
+  </b:if>
+  <p class='comment-footer'>
+    <a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &quot;_backlinks-create-link&quot;' target='_blank'><data:post.createLinkLabel/></a>
+  </p>
+</b:includable>
+            <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div>
+</b:includable>
+            <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img src='//www.blogger.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+            <b:includable id='comment_count_picker' var='post'>
+  <b:if cond='data:post.forceIframeComments'>
+    <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+    </span>
+  <b:else/>
+    <b:if cond='data:post.commentSource == 1'>
+      <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+      </span>
+    <b:else/>
+      <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+        <data:post.commentLabelFull/>:
+      </a>
+    </b:if>
+  </b:if>
+</b:includable>
+            <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.commentSource == 1'>
+    <b:include data='post' name='iframe_comments'/>
+  <b:else/>
+    <b:if cond='data:post.showThreadedComments'>
+      <b:include data='post' name='threaded_comments'/>
+    <b:else/>
+      <b:include data='post' name='comments'/>
+    </b:if>
+  </b:if>
+</b:includable>
+            <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4>
+        <b:if cond='data:post.numComments == 1'>
+          1 <data:commentLabel/>:
+        <b:else/>
+          <data:post.numComments/> <data:commentLabelPlural/>:
+        </b:if>
+      </h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+          &#160;
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+        </span>
+      </b:if>
+
+<ol>
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+<li>
+<b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+<div class='comment_content'>
+ <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+              <b:include data='comment' name='commentDeleteIcon'/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+            <dd class='comment-footer'>
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+              </span>
+            </dd>
+</div>
+<div class='clear'/></li>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+</ol>
+ 
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+<div id='comentariosface'>
+      <fb:comments colorscheme='light' expr:href='data:post.url' num_posts='8' width='520'/>
+    </div>
+          <b:else/>           
+           </b:if>
+        <b:else/>
+        </b:if>
+
+  
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:if cond='data:post.showBacklinks'>
+         <b:include data='post' name='backlinks'/>
+       </b:if>
+    </div>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+    <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments'>
+          <b:if cond='data:post.feedLinks'>
+            <b:include data='post.feedLinks' name='feedLinksBody'/>
+          </b:if>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+            <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:feedLinksMsg/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+            <b:includable id='iframe_comments' var='post'>
+
+  <b:if cond='data:post.allowComments'>
+    <script expr:src='data:post.commentSrc' type='text/javascript'/>
+    <div class='cmt_iframe_holder'/>
+
+    <b:if cond='data:post.embedCommentForm == &quot;false&quot;'>
+      <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+    </b:if>
+  </b:if>
+</b:includable>
+            <b:includable id='mobile-index-post' var='post'>
+  <b:if cond='data:post.dateHeader'>
+    <div class='mobile-index-date'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </div>
+  </b:if>
+
+  <div class='mobile-post-outer'>
+    <a expr:href='data:post.url'>
+      <div class='mobile-index-title-outer'>
+        <h3 class='mobile-index-title entry-title'>
+          <data:post.title/>
+        </h3>
+      </div>
+
+      <div>
+        <div class='mobile-index-arrow'>
+          &amp;rsaquo;
+        </div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+        <div style='clear: both;'/>
+      </div>
+    </a>
+
+    <div class='mobile-index-comment'>
+      <b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+          <b:if cond='data:post.allowComments'>
+            <b:if cond='data:post.numComments != 0'>
+              <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>
+            </b:if>
+          </b:if>
+        </b:if>
+      </b:if>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+            <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+            <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+jhhk
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <a expr:name='data:post.id'/>
+          <b:if cond='data:post.title'>
+            <h3 class='post-title entry-title' itemprop='name'>
+              <b:if cond='data:post.link'>
+                <a expr:href='data:post.link'><data:post.title/></a>
+              <b:else/>
+                <b:if cond='data:post.url'>
+                  <b:if cond='data:blog.url != data:post.url'>
+                    <a expr:href='data:post.url'><data:post.title/></a>
+                  <b:else/>
+                    <data:post.title/>
+                  </b:if>
+                <b:else/>
+                  <data:post.title/>
+                </b:if>
+              </b:if>
+            </h3>
+          </b:if>
+
+          <div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+            <data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div>
+
+          <div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn'>
+                      <a expr:href='data:post.authorProfileUrl' itemprop='author' rel='author' title='author profile'>
+                        <data:post.author/>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn'><data:post.author/></span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <a class='timestamp-link' expr:href='data:post.url' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:if cond='data:blog.pageType != &quot;item&quot;'>
+                  <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+                    <b:if cond='data:post.allowComments'>
+                      <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+                        <data:post.commentLabelFull/>:
+                      </a>
+                    </b:if>
+                  </b:if>
+                </b:if>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+              <b:if cond='data:top.showDummy'>
+                <div class='goog-inline-block dummy-container'><data:post.dummyTag/></div>
+              </b:if>
+            </div>
+
+          </div>
+        </div>
+
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+            <b:includable id='post' var='post'>
+  <div class='post hentry'>
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<style>
+.post img, table.tr-caption-container {
+width:180px;
+height:260px;
+}
+.separator{
+width:180px;
+height:260px;
+}
+</style>
+</b:if>
+</b:if>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<style>
+.hentry {
+width:100% !important;
+float:none;
+border:0;
+-moz-border-radius:0;
+}
+.post div {
+  margin: 0 0 .75em;
+}
+.post-footer {
+  margin: -.25em 0 0;
+  font-size: 87%;
+}
+.entry-content-1{
+display:none;
+}
+.entry-content{
+text-align:justify !important;
+}
+</style>
+</b:if>
+
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<style>
+.entry-content{
+    padding: 15px;
+text-align:justify !important;
+}
+.post-title {
+    max-width: 100%;
+}
+.hentry {
+width:99.7% !important;
+line-height:23px;
+}
+</style>
+</b:if>
+
+<script type='text/javascript'>
+summary_noimg = 430;
+summary_img = 340;
+img_thumb_height = 260;
+img_thumb_width = 180;
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+
+function removeHtmlTag(strx,chop){ 
+	if(strx.indexOf("<")!=-1)
+	{
+		var s = strx.split("<"); 
+		for(var i=0;i<s.length;i++){ 
+			if(s[i].indexOf(">")!=-1){ 
+				s[i] = s[i].substring(s[i].indexOf(">")+1,s[i].length); 
+			} 
+		} 
+		strx =  s.join(""); 
+	}
+	chop = (chop < strx.length-1) ? chop : strx.length-2; 
+	while(strx.charAt(chop-1)!=' ' && strx.indexOf(' ',chop)!=-1) chop++; 
+	strx = strx.substring(0,chop-1); 
+	return strx+'...'; 
+}
+
+function createSummaryAndThumb(pID, pURL, pTITLE){
+	var div = document.getElementById(pID);
+	var imgtag = "";
+	var img = div.getElementsByTagName("img");
+	var summ = summary_noimg;
+	if(img.length>=1) {	
+		imgtag = '<span><a href="'+ pURL +'" title="'+ pTITLE+'"><img src="'+img[0].src+'" width="'+img_thumb_width+'px" height="'+img_thumb_height+'px"/></a></span>';
+		summ = summary_img;
+	}
+	
+	var summary = imgtag + '<div style="display:none;">' + removeHtmlTag(div.innerHTML,summ) + '</div>';
+	div.innerHTML = summary;
+}
+
+//]]>
+</script>
+
+
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+    <div class='post-body entry-content-1'>
+<a expr:href='data:post.url'>
+<div expr:id='&quot;summary&quot; + data:post.id'>
+<data:post.body/></div></a>
+<script type='text/javascript'>createSummaryAndThumb(&quot;summary<data:post.id/>&quot;,&quot;<data:post.url/>&quot;,&quot;<data:post.title/>&quot;);</script>
+    </div>
+</b:if>
+</b:if>
+
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title'>
+      <b:if cond='data:post.link'>
+        <a expr:href='data:post.link'><data:post.title/></a>
+      <b:else/>
+        <b:if cond='data:post.url'>
+          <b:if cond='data:blog.url != data:post.url'>
+            <a expr:href='data:post.url'><data:post.title/></a>
+          <b:else/>
+            <data:post.title/>
+          </b:if>
+        <b:else/>
+          <data:post.title/>
+        </b:if>
+      </b:if>
+      </h3>
+    </b:if>
+
+    <div class='post-body entry-content'>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<data:post.body/>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<data:post.body/>
+</b:if>
+      <div style='clear: both;'/> <!-- clear for photos floats -->
+    </div>
+
+
+    <b:if cond='data:post.hasJumpLink'>
+      <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div>
+    </b:if>
+
+    <div class='post-footer'>
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+    <div class='post-footer-line post-footer-line-1'>
+</div>
+
+      <div class='post-footer-line post-footer-line-2'>
+
+<!-- Feature added by ClonesBlogger.com -->
+	<span class='reaction-buttons'>
+		<b:if cond='data:top.showReactions'>
+			<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+				<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+					<span class='reactions-label'>
+					<data:top.reactionsLabel/></span>&#160;</td>
+				<td><iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/></td>
+			</tr></table>
+		</b:if>
+	</span>
+</div>
+
+      <div class='post-footer-line post-footer-line-3'/>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div class='commentface'><br/>
+<div style='float:left;margin-left:40px;'>
+<script src='http://apis.google.com/js/plusone.js' type='text/javascript'/>
+<g:plusone expr:href='data:post.url' size='medium'/>
+</div>
+
+<div style='float:left;margin-left:10px;'>
+<iframe allowTransparency='true' expr:src='&quot;http://www.facebook.com/plugins/like.php?href=&quot; + data:post.url+ &quot;&amp;layout=button_count&amp;show_faces=false&amp;width=130&amp;height=40&amp;action=like&amp;font=tahoma&amp;colorscheme=light&quot;' frameborder='0' scrolling='no' style='border:none; overflow:hidden; width:130px; height:40px'/>
+</div>
+
+<div style='float:left;margin-left:10px;'>
+<a class='twitter-share-button' href='https://twitter.com/share'>Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);</script>
+</div>
+
+</div></b:if>
+
+<br/>
+<div class='highlight'>
+<div class='clm'>
+<h2>Déjanos un comentario!</h2>
+<div id='floro'>
+Hola, esperamos que la estes pasando genial viendo <b><data:blog.pageName/></b>, si tienes algún problema con el <b><data:blog.pageName/></b> no dudes en usar el boton <em>&quot;Reportar Video&quot;</em>. Recuerda que en <b><data:blog.title/></b> puedes ver anime gratis y sin ningún tipo de restricción, no olvides recomendarnos con tus amigos. </div>
+</div>
+
+<div id='fb-root'/>
+<script src='http://connect.facebook.net/es_ES/all.js#appId=APP_ID&amp;xfbml=1'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><fb:comments expr:href='data:post.url' width='610px'/></b:if></div>
+
+</b:if></b:if>
+
+    </div></div>
+</b:includable>
+            <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+            <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showOrkutButton'><a class='goog-inline-block share-button sb-orkut' expr:href='data:post.sharePostUrl + &quot;&amp;target=orkut&quot;' expr:title='data:top.shareToOrkutMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToOrkutMsg/></span></a></b:if><b:if cond='data:top.showDummy'><div class='goog-inline-block dummy-container'><data:post.dummyTag/></div></b:if>
+</b:includable>
+            <b:includable id='status-message'>
+  <b:if cond='data:navMessage'>
+  <div class='status-msg-wrap'>
+    <div class='status-msg-body'>
+      <data:navMessage/>
+    </div>
+    <div class='status-msg-border'>
+      <div class='status-msg-bg'>
+        <div class='status-msg-hidden'><data:navMessage/></div>
+      </div>
+    </div>
+  </div>
+  <div style='clear: both;'/>
+  </b:if>
+</b:includable>
+            <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div>
+</b:includable>
+            <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + entry.content.$t + '</span>';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+</b:includable>
+            <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threaded_comment_js'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:if cond='data:post.showBacklinks'>
+         <b:include data='post' name='backlinks'/>
+       </b:if>
+    </div>
+    </div>
+  </div>
+</b:includable>
+          </b:widget>
+        </b:section>
+      </div>
+
+
+      <div id='sidebar-wrapper'>
+<div class='tensei-descarga'/>
+<div class='tensei-lista'/>
+<div class='publi-tensei'>Aqui tu publicidad</div>
+<div class='report'><label class='fixed-form__control'><i class='form-paper-plane'/> Informar Error</label><div class='fixed-form__outsite'>
+         <div class='fixed-form__container'>
+            <h4 class='fixed-form__header'>Tienes algún problema con la web? <i class='form-email'/></h4>
+            <form name='contact-form'>
+               <b:with value='data:widget.instanceId' var='i'>
+                  <div class='fixed-form__body'>
+                     <p class='fixed-form__message'>Rellena los siguientes campos, te responderemos lo mas pronto posible.</p>
+                     <input class='fixed-form__input' expr:id='data:i + &quot;_contact-form-name&quot;' expr:placeholder='data:contactFormNameMsg' name='name' type='text'/>
+                     <input class='fixed-form__input' expr:id='data:i + &quot;_contact-form-email&quot;' expr:placeholder='data:contactFormEmailMsg' name='email' type='text'/>
+                     <textarea class='fixed-form__input fixed-form__textarea' expr:id='data:i + &quot;_contact-form-email-message&quot;' expr:placeholder='data:contactFormMessageMsg' name='email-message'/>
+                     <button class='fixed-form__button' expr:id='data:i + &quot;_contact-form-submit&quot;' type='button'><i class='form-paper-plane'/><data:contactFormSendMsg/></button>
+                  </div>
+                  <div class='fixed-form__footer'>
+                     <p class='contact-form-error-message' expr:id='data:i + &quot;_contact-form-error-message&quot;'/>
+                     <p class='contact-form-success-message' expr:id='data:i + &quot;_contact-form-success-message&quot;'/>
+                  </div>
+               </b:with>
+            </form>
+         </div>
+      </div><!-- Toggle Fixed form -->
+      <script>//<![CDATA[ /*! Fixed-Form v1.0.0 */
+      var btnControl=document.querySelector(".fixed-form__control"),formOutsite=document.querySelector(".fixed-form__outsite");btnControl.onclick=function(t){formOutsite.className&&/(^|\s)is-active(\s|$)/.test(formOutsite.className)?(formOutsite.classList.remove("is-active"),btnControl.classList.remove("is-active"),t.preventDefault()):(formOutsite.classList.add("is-active"),btnControl.classList.add("is-active"),t.preventDefault())};
+//]]></script></div>
+        <b:section class='sidebar' id='sidebar' preferred='yes'>
+          <b:widget id='HTML1' locked='false' title='asdsad' type='HTML'>
+            <b:widget-settings>
+              <b:widget-setting name='content'>&lt;div class=&quot;dm&quot; id=&quot;mamain&quot;&gt; &lt;ul id=&quot;holder&quot;&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/15-bishoujo-hyouryuuki-33.html?zx=952957c7a2da5836&quot; title=&quot;15 Bishoujo Hyouryuuki  &quot;&gt;15 Bishoujo Hyouryuuki   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/9-oclock-woman-33.html&quot; title=&quot;9 O&#39;Clock Woman &quot;&gt;9 O&#39;Clock Woman   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-forbidden-time-77.html&quot; title=&quot;A Forbidden Time  &quot;&gt;A Forbidden Time   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/a-time-to-screw-22.html&quot; title=&quot;A Time To Screw &quot;&gt;A Time To Screw   &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/10/accelerando-dateshi-sasayaki-44.html&quot; title=&quot;Accelerando Dateshi Sasayaki &quot;&gt;Accelerando Dateshi Sasayaki    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-class-lesson-sub-espanol-33.html&quot; title=&quot;After Class Lesson&quot;&gt;After Class Lesson    &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-school-mania-club-sub.html&quot; title=&quot;After School Mania Club&quot;&gt;After School Mania Club   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-after-animation-sub-espanol-22.html&quot; title=&quot;After The Animation&quot;&gt;After The Animation   &lt;/a&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-doll-sub-espanol-44.html&quot; title=&quot;Ai Doll&quot;&gt;Ai Doll  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-kyan-joukan-sub-espanol-22.html&quot; title=&quot;Ai kyan Joukan&quot;&gt;Ai kyan Joukan  &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-no-katachi-sub-espanol-22.html&quot; title=&quot;Ai no Katachi&quot;&gt;Ai no Katachi &lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;/2012/12/online-ai-shimai-2-sub-espanol-33.html&quot; title=&quot;Ai Shimai 2 &quot;&gt;Ai Shimai 2 &lt;/a&gt;&lt;/li&gt;
+
+
+
+
+  &lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;height: 23px;&quot; class=&quot;dm&quot;&gt;&lt;/div&gt; 
+
+&lt;div class=&quot;db&quot;&gt;&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;(function(p){p.fn.sweetPages=function(c){if(!c)c={};var d=c.perPage||3;var f=this;var g=f.find(&#39;li&#39;);g.each(function(){var a=p(this);a.data(&#39;height&#39;,a.outerHeight(true))});var h=Math.ceil(g.length/d);if(h&lt;2)return this;var j=p(&#39;&lt;div class=&quot;swControls&quot;&gt;&#39;);for(var i=0;i&lt;h;i++){g.slice(i*d,(i+1)*d).wrapAll(&#39;&lt;div class=&quot;swPage&quot; /&gt;&#39;);j.append(&#39;&lt;a href=&quot;javascript:void();&quot; class=&quot;swShowPage&quot; title=&quot;P&amp;aacute;gina: &#39;+(i+1)+&#39;&quot;&gt;&#39;+(i+1)+&#39;&lt;/a&gt;&#39;)}f.append(j);var k=0;var l=0;var m=f.find(&#39;.swPage&#39;);m.each(function(){var a=p(this);var b=0;a.find(&#39;li&#39;).each(function(){b+=p(this).data(&#39;height&#39;)});if(b&gt;k)k=b;l+=a.outerWidth();a.css(&#39;float&#39;,&#39;left&#39;).width(f.width())});m.wrapAll(&#39;&lt;div class=&quot;swSlider&quot; /&gt;&#39;);f.height(k);var n=f.find(&#39;.swSlider&#39;);n.append(&#39;&lt;div class=&quot;clear&quot; /&gt;&#39;).width(l);var o=f.find(&#39;a.swShowPage&#39;);o.click(function(e){p(this).addClass(&#39;active&#39;).siblings().removeClass(&#39;active&#39;);n.stop().animate({&#39;margin-left&#39;:-(parseInt(p(this).text())-1)*f.width()},&#39;normal&#39;);e.preventDefault()});o.eq(0).addClass(&#39;active&#39;);j.css({&#39;margin-left&#39;:&#39;0px&#39;});return this}})(jQuery);jQuery(document).ready(function(){jQuery(&#39;#holder&#39;).sweetPages({perPage:42});var a=jQuery(&#39;.swControls&#39;).detach();a.appendTo(&#39;#mamain&#39;);jQuery(&#39;.swShowPage&#39;).tipsy({gravity: &#39;s&#39;})});&lt;/script&gt;
+ 
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://sites.google.com/site/hentaioniscripts/archivos/jquery.tipsy.js&quot;&gt;&lt;/script&gt;</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+          </b:widget>
+        </b:section>
+      </div>
+
+      <!-- spacer for skins that want sidebar and main to be the same height-->
+      <div class='clear'>&#160;</div>
+
+    </div> <!-- end content-wrapper -->
+</div>
+    <div id='footer-wrapper'>
+<div class='footer-inner'>
+  <div id='f_t'/>
+<p class='copyright'>
+            &#169; Copyright 2017. Powered by <a href='http://www.blogger.com'>Blogger</a>.  Theme by <a href='https://exilontemplates.blogspot.mx/'>ExilonTemplates</a> 
+</p>
+</div>
+
+    </div>
+
+  </div></div> <!-- end outer-wrapper -->
+</body>
+</html>

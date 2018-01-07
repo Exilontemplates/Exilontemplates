@@ -1,0 +1,2 @@
+<script type='text/javascript'>var numposts = 20;var showpostthumbnails = true;var displaymore = true;var displayseparator = true;var showcommentnum = false;var showpostdate = true;var showpostsummary = false;var numchars = 200;</script> 
+<script type="text/javascript" src="/feeds/posts/default/-/Capitulo?published&alt=json-in-script&callback=labelthumbs"></script>
