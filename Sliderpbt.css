@@ -1,0 +1,90 @@
+
+/*	-==========================- SLIDER -==========================-  */
+#sliderpbt { position:relative; overflow:hidden;}
+.slidespbt { z-index:1; }
+.slidespbt .slidepbt { display:none; position:relat;}
+.slidespbt .slidepbt:first-child { display:block; }
+.slider-arrowspbt { padding:0 10px; }
+.slider-arrowspbt div { z-index:2; cursor:pointer; position:absolute;}
+.slide-rightpbt { right:20px; top:50%;background:url(http://3.bp.blogspot.com/-gj1VsY_Q7Nk/Vu70fcPfcDI/AAAAAAAAAfs/ouc82dBW7rI/s000/slide-right.png)}
+.slide-leftpbt { left:20px; top:50%;background:url(http://2.bp.blogspot.com/-Sty7n0sgqK8/Vu70fn5LEaI/AAAAAAAAAfw/T2E2cbRON7U/s000/slide-left.png) }
+.slidepbt * {margin:0;padding:0}
+.slider-previewspbt img { cursor:pointer;}
+.bgrClr {position:absolute;left:0;top:0;right:0;bottom:0;}
+.slide-element {white-space:nowrap;}
+.slide-metapbt {
+	height:42px;
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	background:url(http://1.bp.blogspot.com/-UnCgq-k00P0/Vu70f1cwe8I/AAAAAAAAAf0/AGM96DWH0gg/s000/post-bottom.png);
+	padding:12px 20px;
+}
+.slide-metapbt .readmorepbt {
+	margin-top:7px;
+}
+
+/* SLIDER */
+#sliderpbt{
+	margin:28px auto;
+	width:1000px;
+	background:#ff8598;
+	padding-bottom:5px;
+}
+.slidepbt {
+	width:1000px;
+	margin:0 auto;
+	height:422px;
+}
+.slide-leftpbt {
+	left:0px;
+	top:148px;
+	width:29px;
+	height:66px;
+}
+.slide-rightpbt {
+	right:0px;
+	top:148px;
+	width:29px;
+	height:66px;
+}
+.lz-showroom {
+	width:1000px;
+	margin:0 auto;
+}
+.showroom-block {
+	margin:0 auto;
+	width:1000px;
+}
+.showroom-block .item{ margin:0 16px;}
+.showroom-block .readmorepbt{
+	color:#90172c;
+	text-decoration:none;
+	background:#262626;
+	float:right;
+	padding:5px 10px;
+	font-size:14px;
+}
+.showroom-block .readmorepbt:hover{
+	color:#fff;
+}
+.showroom-block h3{
+	color:#4d4d4d;
+	font-size:18px;
+}
+.lzblock[data-block="showroom"]{
+	background:url(http://1.bp.blogspot.com/-tbkJnf1D41Y/Vu70hJZ1okI/AAAAAAAAAgM/yRhLAmE7vsM/s000/footer.png) center;
+	padding:25px 0;
+	width:100%;
+	border-top:1px solid #bdbdbd;
+	border-bottom:1px solid #bdbdbd;
+}
+.showroom-block .item .wp-post-image{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	margin-bottom:0;
+}
+#sliderpbt { display:none; }
+#sliderpbt { display:none; }
