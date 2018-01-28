@@ -28,14 +28,14 @@
 /* SLIDER */
 #sliderpbt{
 	margin:28px auto;
-	width:1000px;
+	width:810px;
 	background:#ff8598;
 	padding-bottom:5px;
 }
 .slidepbt {
-	width:1000px;
+	width:810px;
 	margin:0 auto;
-	height:422px;
+	height:411px;
 }
 .slide-leftpbt {
 	left:0px;
@@ -50,7 +50,7 @@
 	height:66px;
 }
 .lz-showroom {
-	width:1000px;
+	width:810px;
 	margin:0 auto;
 }
 .showroom-block {
